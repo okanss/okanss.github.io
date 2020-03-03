@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jekyll | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/tags/jekyll/</link>
-      <atom:link href="https://chengjunwang.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <title>jekyll | Okan Bursa</title>
+    <link>https://okanss.com/tags/jekyll/</link>
+      <atom:link href="https://okanss.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     <description>jekyll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>jekyll</title>
-      <link>https://chengjunwang.com/tags/jekyll/</link>
+      <link>https://okanss.com/tags/jekyll/</link>
     </image>
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://chengjunwang.com/post/post_archive/migrate-from-jekyll/</link>
+      <link>https://okanss.com/post/post_archive/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/migrate-from-jekyll/</guid>
-      <description>&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://chengjunwang.com/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/post_archive/migrate-from-jekyll/</guid>
+      <description>&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://okanss.com/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
 With Jekyll, something that looked like&lt;/p&gt;
@@ -43,9 +43,9 @@ With Jekyll, something that looked like&lt;/p&gt;
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://chengjunwang.com/zh/cn/migrate-from-jekyll.zh/</link>
+      <link>https://okanss.com/zh/cn/migrate-from-jekyll.zh/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0200</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/migrate-from-jekyll.zh/</guid>
+      <guid>https://okanss.com/zh/cn/migrate-from-jekyll.zh/</guid>
       <description>&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s [getting started guide].&lt;/p&gt;
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.

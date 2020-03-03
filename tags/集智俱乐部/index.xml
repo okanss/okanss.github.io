@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>集智俱乐部 | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</link>
-      <atom:link href="https://chengjunwang.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
+    <title>集智俱乐部 | Okan Bursa</title>
+    <link>https://okanss.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</link>
+      <atom:link href="https://okanss.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>集智俱乐部</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Thu, 13 Oct 2016 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>集智俱乐部</title>
-      <link>https://chengjunwang.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</link>
+      <link>https://okanss.com/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</link>
     </image>
     
     <item>
       <title>记凯风-集智训练营</title>
-      <link>https://chengjunwang.com/note/note_archive/2016-10-13-swarma-camp/</link>
+      <link>https://okanss.com/note/note_archive/2016-10-13-swarma-camp/</link>
       <pubDate>Thu, 13 Oct 2016 12:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/note/note_archive/2016-10-13-swarma-camp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/ed6c9d46333416093c4d0fd0e9712dc4.png&#34; alt=&#34;缪斯&#34;&gt;&lt;/p&gt;
+      <guid>https://okanss.com/note/note_archive/2016-10-13-swarma-camp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/ed6c9d46333416093c4d0fd0e9712dc4.png&#34; alt=&#34;缪斯&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;二十一世纪的科学&#34;&gt;二十一世纪的科学&lt;/h3&gt;
 &lt;p&gt;邓肯*瓦茨在2007年的时候写了一篇名为《二十一世纪的科学》的文章，提出了”二十一世纪的科学“的概念。瓦茨认为二十一世纪的科学不是自然科学，而是社会科学。因为社会科学涉及到了海量的异质化个体之间的互动，所以研究社会科学所面临的挑战特别大；但是基于数字化媒体（如互联网、手机）等手段收集的人类行为数据则为这种研究提供了丰富的数据。类似这种视角，Lazer等人（2009）更完整地表达为”计算社会科学”研究的思路。基于计算社会科学的研究思路为分析社会现象（尤其是人类传播行为）提供了丰富的可能性，因而我们见证了最近十年里的社会科学的飞跃。&lt;/p&gt;
 &lt;p&gt;但是计算社会科学的发展思路依然留下了很多问题，比如如何来把握不同学科的资源来发展计算社会科学。研究者习惯于使用韦恩图来表达这种跨学科的研究的特点，比如讲数据科学表达为科学（一个领域的知识）、统计、机器学习等算法三个领域的重叠。我自己越来越倾向于认为计算社会科学是社会科学的领域知识、物理学模型、计算机算法三个领域的重叠。但是这种重叠不是完全平等的重合。因为几乎没有一个人可以熟练地掌握三个领域的知识，这种人非常罕见，因而可以称之为“独角兽”。多数人其实只是在一个方面发展得比较好，比如传统的社会科学研究者其实是对本领域的知识方面比较了解，而对于计算机算法和物理学模型方面则有所欠缺。这个时候有两个平行的发展思路：一个是扬长避短、一个是取长补短。&lt;/p&gt;

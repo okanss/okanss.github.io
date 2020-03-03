@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content tagged as &#39;Academic&#39; | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/tags/academic/</link>
-      <atom:link href="https://chengjunwang.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Content tagged as &#39;Academic&#39; | Okan Bursa</title>
+    <link>https://okanss.com/tags/academic/</link>
+      <atom:link href="https://okanss.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Content tagged as &#39;Academic&#39;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/bubbles-wide.jpg</url>
+      <url>https://okanss.com/img/headers/bubbles-wide.jpg</url>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://chengjunwang.com/tags/academic/</link>
+      <link>https://okanss.com/tags/academic/</link>
     </image>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/post_archive/getting-started/</link>
+      <link>https://okanss.com/post/post_archive/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/getting-started/</guid>
+      <guid>https://okanss.com/post/post_archive/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -77,11 +77,11 @@
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;customization--upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 &lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
@@ -140,9 +140,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://chengjunwang.com/post/post_archive/widgets/</link>
+      <link>https://okanss.com/post/post_archive/widgets/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/widgets/</guid>
+      <guid>https://okanss.com/post/post_archive/widgets/</guid>
       <description>&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;About/biography&lt;/li&gt;
@@ -181,12 +181,12 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://chengjunwang.com/post/post_archive/managing-content/</link>
+      <link>https://okanss.com/post/post_archive/managing-content/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/post_archive/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;header&lt;/span&gt;]
 &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;headers/getting-started.png&amp;#34;&lt;/span&gt;
@@ -271,16 +271,16 @@ hugo new talk/_index.md
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/getting-started/</link>
+      <link>https://okanss.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/getting-started/</guid>
+      <guid>https://okanss.com/post/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -335,11 +335,11 @@ hugo new talk/_index.md
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 &lt;p&gt;The following color themes are available and can be set by the &lt;code&gt;color_theme&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
 &lt;table&gt;
@@ -438,9 +438,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://chengjunwang.com/post/widgets/</link>
+      <link>https://okanss.com/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/widgets/</guid>
+      <guid>https://okanss.com/post/widgets/</guid>
       <description>&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;About/biography&lt;/li&gt;
@@ -481,12 +481,12 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://chengjunwang.com/post/managing-content/</link>
+      <link>https://okanss.com/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;header&lt;/span&gt;]
 &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;headers/getting-started.png&amp;#34;&lt;/span&gt;
@@ -627,16 +627,16 @@ widgets = true
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/note/note_archive/2000-04-20-getting-started/</link>
+      <link>https://okanss.com/note/note_archive/2000-04-20-getting-started/</link>
       <pubDate>Thu, 20 Apr 2000 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/note/note_archive/2000-04-20-getting-started/</guid>
+      <guid>https://okanss.com/note/note_archive/2000-04-20-getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -690,11 +690,11 @@ widgets = true
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;customization--upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 &lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;

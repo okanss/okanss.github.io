@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/tags/news/</link>
-      <atom:link href="https://chengjunwang.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <title>news | Okan Bursa</title>
+    <link>https://okanss.com/tags/news/</link>
+      <atom:link href="https://okanss.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>news</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>news</title>
-      <link>https://chengjunwang.com/tags/news/</link>
+      <link>https://okanss.com/tags/news/</link>
     </image>
     
     <item>
       <title>2019确诊人数最多的小区是哪一个？</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%B0%8F%E5%8C%BA%E6%98%AF%E5%93%AA%E4%B8%80%E4%B8%AA/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%B0%8F%E5%8C%BA%E6%98%AF%E5%93%AA%E4%B8%80%E4%B8%AA/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%B0%8F%E5%8C%BA%E6%98%AF%E5%93%AA%E4%B8%80%E4%B8%AA/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%B0%8F%E5%8C%BA%E6%98%AF%E5%93%AA%E4%B8%80%E4%B8%AA/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;来回答一个&lt;strong&gt;问题&lt;/strong&gt;：已经开放的数据当中，确诊人数最多的小区是哪一个？&lt;/p&gt;
 &lt;p&gt;前文介绍了akshare的安装和简单使用，本文介绍使用akshare获取细化到每个小区的确诊人数数据。腾讯提供了一个公开的数据，可以供查询。为此，我们将使用到akshare的epidemic_area_detail接口。&lt;/p&gt;
@@ -63,9 +63,9 @@ epidemic_area_detail_df[&#39;cnt_sum_certain&#39;] = vlist
     
     <item>
       <title>Causal Inference: 电子书、代码、数据</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/causal-inferencewhat-if-%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/causal-inferencewhat-if-%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/causal-inferencewhat-if-%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/causal-inferencewhat-if-%E7%94%B5%E5%AD%90%E4%B9%A6%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-f6dbf120d4032f36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;causal-inference-book&#34;&gt;Causal Inference Book&lt;/h3&gt;
@@ -101,9 +101,9 @@ epidemic_area_detail_df[&#39;cnt_sum_certain&#39;] = vlist
     
     <item>
       <title>Covid-19数据来源（更新当中）</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/covid-19%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%96%AD%E6%95%B4%E7%90%86%E5%BD%93%E4%B8%AD/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/covid-19%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%96%AD%E6%95%B4%E7%90%86%E5%BD%93%E4%B8%AD/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/covid-19%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%96%AD%E6%95%B4%E7%90%86%E5%BD%93%E4%B8%AD/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/covid-19%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%96%AD%E6%95%B4%E7%90%86%E5%BD%93%E4%B8%AD/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-2026094daa22ebae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;数据来源&#34;&gt;数据来源&lt;/h1&gt;
@@ -133,9 +133,9 @@ epidemic_area_detail_df[&#39;cnt_sum_certain&#39;] = vlist
     
     <item>
       <title>Covid-19细颗粒度历史数据</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%BB%86%E9%A2%97%E7%B2%92%E5%BA%A6%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%BB%86%E9%A2%97%E7%B2%92%E5%BA%A6%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%BB%86%E9%A2%97%E7%B2%92%E5%BA%A6%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/2019ncov%E7%BB%86%E9%A2%97%E7%B2%92%E5%BA%A6%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;epidemic_hist_all()
@@ -193,9 +193,9 @@ plt.show()
     
     <item>
       <title>Pygame内置小游戏：外星人</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/pygame%E5%86%85%E7%BD%AE%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%96%E6%98%9F%E4%BA%BA/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/pygame%E5%86%85%E7%BD%AE%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%96%E6%98%9F%E4%BA%BA/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/pygame%E5%86%85%E7%BD%AE%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%96%E6%98%9F%E4%BA%BA/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/pygame%E5%86%85%E7%BD%AE%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%96%E6%98%9F%E4%BA%BA/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-584148e546eaf513.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;pygame 卡哇伊！&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;安装pygame&#34;&gt;安装pygame&lt;/h2&gt;
@@ -233,9 +233,9 @@ plt.show()
     
     <item>
       <title>《石头汤》</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E7%9F%B3%E5%A4%B4%E6%B1%A4%E8%A1%8C%E5%8A%A8%E5%92%8C%E5%88%86%E4%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E7%9F%B3%E5%A4%B4%E6%B1%A4%E8%A1%8C%E5%8A%A8%E5%92%8C%E5%88%86%E4%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E7%9F%B3%E5%A4%B4%E6%B1%A4%E8%A1%8C%E5%8A%A8%E5%92%8C%E5%88%86%E4%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E7%9F%B3%E5%A4%B4%E6%B1%A4%E8%A1%8C%E5%8A%A8%E5%92%8C%E5%88%86%E4%BA%AB%E7%9A%84%E5%8A%9B%E9%87%8F/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-2100f040addfa8eb.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;幸福原来如此简单&#34;&gt;&lt;/p&gt;
 &lt;p&gt;来源： &lt;a href=&#34;https://mp.sohu.com/profile?xpt=aWU4ODg4ODlAc29odS5jb20=&amp;amp;_f=index_pagemp_1&amp;amp;spm=smpc.content.author.2.15823436662028hdQv9K&#34;&gt;麦田亲子悦读&lt;/a&gt;&lt;/p&gt;
@@ -286,9 +286,9 @@ plt.show()
     
     <item>
       <title>中国经济政策不确定性数据</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%95%B0%E6%8D%AE/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%95%B0%E6%8D%AE/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%95%B0%E6%8D%AE/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;数据来源：&lt;a href=&#34;http://www.policyuncertainty.com/scmp_monthly.html&#34;&gt;http://www.policyuncertainty.com/scmp_monthly.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-e5e4f4bc1feddf77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;中国政策不确定性曲线&#34;&gt;&lt;/p&gt;
@@ -310,9 +310,9 @@ epu_index_df.head()
     
     <item>
       <title>仿真模型表明媒体报道可以遏制传染病扩散</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BB%BF%E7%9C%9F%E6%A8%A1%E5%9E%8B%E8%A1%A8%E6%98%8E%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E5%8F%AF%E8%83%BD%E9%99%8D%E4%BD%8E%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BB%BF%E7%9C%9F%E6%A8%A1%E5%9E%8B%E8%A1%A8%E6%98%8E%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E5%8F%AF%E8%83%BD%E9%99%8D%E4%BD%8E%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BB%BF%E7%9C%9F%E6%A8%A1%E5%9E%8B%E8%A1%A8%E6%98%8E%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E5%8F%AF%E8%83%BD%E9%99%8D%E4%BD%8E%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BB%BF%E7%9C%9F%E6%A8%A1%E5%9E%8B%E8%A1%A8%E6%98%8E%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E5%8F%AF%E8%83%BD%E9%99%8D%E4%BD%8E%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;导语：量化模型显示，当媒体的报道量增加十倍，传染病的感染数将会减少33.5％。
  &lt;/p&gt;
@@ -357,9 +357,9 @@ epu_index_df.head()
     
     <item>
       <title>使用akshare分析covid19微博指数</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8akshare%E5%88%86%E6%9E%902019ncov%E7%96%AB%E6%83%85%E5%BE%AE%E5%8D%9A%E6%8C%87%E6%95%B0/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8akshare%E5%88%86%E6%9E%902019ncov%E7%96%AB%E6%83%85%E5%BE%AE%E5%8D%9A%E6%8C%87%E6%95%B0/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8akshare%E5%88%86%E6%9E%902019ncov%E7%96%AB%E6%83%85%E5%BE%AE%E5%8D%9A%E6%8C%87%E6%95%B0/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8akshare%E5%88%86%E6%9E%902019ncov%E7%96%AB%E6%83%85%E5%BE%AE%E5%8D%9A%E6%8C%87%E6%95%B0/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;akshare&#34;&gt;AkShare&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -404,9 +404,9 @@ plt.show()
     
     <item>
       <title>使用python模拟传染病模型</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E6%A8%A1%E6%8B%9F%E4%BC%A0%E6%9F%93%E7%97%85%E6%A8%A1%E5%9E%8B/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E6%A8%A1%E6%8B%9F%E4%BC%A0%E6%9F%93%E7%97%85%E6%A8%A1%E5%9E%8B/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E6%A8%A1%E6%8B%9F%E4%BC%A0%E6%9F%93%E7%97%85%E6%A8%A1%E5%9E%8B/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E6%A8%A1%E6%8B%9F%E4%BC%A0%E6%9F%93%E7%97%85%E6%A8%A1%E5%9E%8B/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/people/doraemon-63-82&#34;&gt;Doraemon&lt;/a&gt;：本文尝试使用python对经典传染病模型进行实现，因传染病模型研究属于传染病动力学研究方向，不是本人的工作范围，因此，本人只是将模型中的微分方程，用Python进行实现，想起到抛砖引玉的效果。来源： &lt;a href=&#34;https://zhuanlan.zhihu.com/p/104091330&#34;&gt;https://zhuanlan.zhihu.com/p/104091330&lt;/a&gt;&lt;/p&gt;
@@ -665,9 +665,9 @@ plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
     
     <item>
       <title>使用python玩飞机大战游戏</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E7%8E%A9%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98%E6%B8%B8%E6%88%8F/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E7%8E%A9%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E7%8E%A9%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98%E6%B8%B8%E6%88%8F/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8python%E7%8E%A9%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98%E6%B8%B8%E6%88%8F/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;安装pygame&#34;&gt;安装pygame&lt;/h2&gt;
 &lt;p&gt;首先尝试：&lt;/p&gt;
@@ -1303,9 +1303,9 @@ pygame.quit()
     
     <item>
       <title>使用百度指数了解社会事件</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0%E4%BA%86%E8%A7%A3%E5%88%86%E7%9C%81%E5%92%8C%E5%9F%8E%E5%B8%82%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%8B%E4%BB%B6/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0%E4%BA%86%E8%A7%A3%E5%88%86%E7%9C%81%E5%92%8C%E5%9F%8E%E5%B8%82%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%8B%E4%BB%B6/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0%E4%BA%86%E8%A7%A3%E5%88%86%E7%9C%81%E5%92%8C%E5%9F%8E%E5%B8%82%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%8B%E4%BB%B6/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0%E4%BA%86%E8%A7%A3%E5%88%86%E7%9C%81%E5%92%8C%E5%9F%8E%E5%B8%82%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%8B%E4%BB%B6/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;百度指数是以百度海量网民行为数据为基础的数据分享平台。在这里,你可以研究关键词搜索趋势、洞察网民兴趣和需求、监测舆情动向、定位受众特征。&lt;/p&gt;
 &lt;p&gt;我以“疫情”和“口罩”两个关键词来看新冠疫情的公众关注情况。&lt;/p&gt;
@@ -1351,9 +1351,9 @@ index_df3 = ak.baidu_media_index(word=&amp;quot;螺纹钢&amp;quot;, start_date=
     
     <item>
       <title>帝国理工和西北大学估算武汉实际感染人数的模型</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%B8%9D%E5%9B%BD%E7%90%86%E5%B7%A5%E5%92%8C%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%A8%A1%E5%9E%8B/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%B8%9D%E5%9B%BD%E7%90%86%E5%B7%A5%E5%92%8C%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%A8%A1%E5%9E%8B/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%B8%9D%E5%9B%BD%E7%90%86%E5%B7%A5%E5%92%8C%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%A8%A1%E5%9E%8B/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%B8%9D%E5%9B%BD%E7%90%86%E5%B7%A5%E5%92%8C%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%A8%A1%E5%9E%8B/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;已有 24688 次阅读 2020-1-24 08:44 |系统分类:&lt;a href=&#34;http://blog.sciencenet.cn/home.php?mod=space&amp;amp;do=blog&amp;amp;view=all&amp;amp;uid=3075&amp;amp;catid=1&#34;&gt;科研笔记&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;有人已经注意到了海外研究团队基于现有公开数据对武汉当地感染武汉肺炎的实际人数进行估计。目前影响比较大，大家讨论比较多的分析报告主要有两个来源：&lt;/p&gt;
@@ -1428,9 +1428,9 @@ plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
     
     <item>
       <title>微博讨论与covid19疫情的关联</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%BE%AE%E5%8D%9A%E8%AE%A8%E8%AE%BA%E5%92%8C2019ncov%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%85%B3%E7%B3%BB/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%BE%AE%E5%8D%9A%E8%AE%A8%E8%AE%BA%E5%92%8C2019ncov%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%85%B3%E7%B3%BB/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%BE%AE%E5%8D%9A%E8%AE%A8%E8%AE%BA%E5%92%8C2019ncov%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%85%B3%E7%B3%BB/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E5%BE%AE%E5%8D%9A%E8%AE%A8%E8%AE%BA%E5%92%8C2019ncov%E7%96%AB%E6%83%85%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%85%B3%E7%B3%BB/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;import akshare as ak
 import pylab as plt
@@ -1482,9 +1482,9 @@ plt.show()
     
     <item>
       <title>舆论热点预测疫情感染？</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%88%86%E8%AE%BA%E4%BA%8B%E4%BB%B6%E7%83%AD%E5%BA%A6%E5%AF%B9%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%95%B0%E9%87%8F%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%88%86%E8%AE%BA%E4%BA%8B%E4%BB%B6%E7%83%AD%E5%BA%A6%E5%AF%B9%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%95%B0%E9%87%8F%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%88%86%E8%AE%BA%E4%BA%8B%E4%BB%B6%E7%83%AD%E5%BA%A6%E5%AF%B9%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%95%B0%E9%87%8F%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%88%86%E8%AE%BA%E4%BA%8B%E4%BB%B6%E7%83%AD%E5%BA%A6%E5%AF%B9%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E6%95%B0%E9%87%8F%E6%9C%89%E5%BD%B1%E5%93%8D%E5%90%97/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&#34;问题&#34;&gt;问题&lt;/h1&gt;
 &lt;p&gt;RQ: 舆论事件热度对新冠肺炎新增确诊数量有影响吗？&lt;/p&gt;
@@ -1602,9 +1602,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>计算新闻在行动</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB%E5%9C%A8%E8%A1%8C%E5%8A%A8/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB%E5%9C%A8%E8%A1%8C%E5%8A%A8/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB%E5%9C%A8%E8%A1%8C%E5%8A%A8/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB%E5%9C%A8%E8%A1%8C%E5%8A%A8/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;这是南京大学《数据新闻》班级的作品展示，很多东西是半成品，欢迎提意见！&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1661,9 +1661,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>记疫：一个数据新闻作品</title>
-      <link>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%B0%E7%96%AB%E4%B8%80%E4%B8%AA%E5%BE%88%E6%A3%92%E7%9A%84%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB%E4%BD%9C%E5%93%81/</link>
+      <link>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%B0%E7%96%AB%E4%B8%80%E4%B8%AA%E5%BE%88%E6%A3%92%E7%9A%84%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB%E4%BD%9C%E5%93%81/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%B0%E7%96%AB%E4%B8%80%E4%B8%AA%E5%BE%88%E6%A3%92%E7%9A%84%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB%E4%BD%9C%E5%93%81/</guid>
+      <guid>https://okanss.com/%E8%AE%A1%E7%AE%97%E6%96%B0%E9%97%BB/%E8%AE%B0%E7%96%AB%E4%B8%80%E4%B8%AA%E5%BE%88%E6%A3%92%E7%9A%84%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB%E4%BD%9C%E5%93%81/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://h5.oeeee.com/h5/v20/nCovTimeline/&#34;&gt;http://h5.oeeee.com/h5/v20/nCovTimeline/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://upload-images.jianshu.io/upload_images/38934-32209813c1f3b0f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;记疫&#34;&gt;&lt;/p&gt;
@@ -1672,9 +1672,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>学折纸、学开车</title>
-      <link>https://chengjunwang.com/zh/cn/2019-02-14-lovers-day.zh/</link>
+      <link>https://okanss.com/zh/cn/2019-02-14-lovers-day.zh/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2019-02-14-lovers-day.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2019-02-14-lovers-day.zh/</guid>
       <description>&lt;p&gt;2019年来了，农历新年过去了，今天是情人节。米粒马上四岁，米果也快要满两岁了。再过两年，牛年一到，我也要36岁了。岁月太可怕了，总以为自己还有很多时间，却似乎一转眼就要40岁了。&lt;/p&gt;
 &lt;p&gt;今天一早，我搭晓青公司的车去驾校，晓青去合肥出差。&lt;/p&gt;
 &lt;h2 id=&#34;鲜花折纸&#34;&gt;鲜花折纸&lt;/h2&gt;
@@ -1785,9 +1785,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>2019系统科学大会的计算传播学Panel</title>
-      <link>https://chengjunwang.com/zh/cn/2018-12-07-ccr-panel.zh/</link>
+      <link>https://okanss.com/zh/cn/2018-12-07-ccr-panel.zh/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2018-12-07-ccr-panel.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2018-12-07-ccr-panel.zh/</guid>
       <description>&lt;p&gt;第三届中国系统科学大会拟于2019年5月18-19日在湖南长沙举行。大会由上海系统科学研究院主办,国防科技大学承办,中国科学院数学与系统科学研究院系统科学研究所、北京师范大学系统科学学院、北京交通大学交通系统科学与工程研究院、中国船舶工业系统工程研究院、中国系统工程学会、中国自动化学会控制理论专业委员会等单位协办。旨在为系统科学及其相关领域的国内外专家学者提供一个学术交流平台，促进相关学科的交流、发展和融合，促进新方向、新领域的产生。会议将采取大会报告、专题研讨、会前专题讲座、分组报告等形式进行交流。
 &lt;a href=&#34;http://iss.amss.cas.cn/cssc2019/zwtz/&#34;&gt;http://iss.amss.cas.cn/cssc2019/zwtz/&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1806,9 +1806,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>2017年“大事记”</title>
-      <link>https://chengjunwang.com/zh/cn/news2017.zh/</link>
+      <link>https://okanss.com/zh/cn/news2017.zh/</link>
       <pubDate>Thu, 28 Dec 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/news2017.zh/</guid>
+      <guid>https://okanss.com/zh/cn/news2017.zh/</guid>
       <description>&lt;p&gt;计算传播2017非毕业班的同学们：我8月8日登陆教务处系统录入成绩，发现系统暂时关闭了成绩录入；联系教务处（025-89682303）回复说因为系统原因，我需要开学后才能给你们录入成绩。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/computational-class/cc2017/issues/4&#34;&gt;https://github.com/computational-class/cc2017/issues/4&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;sunbelt2017社会网络分析国际研讨会&#34;&gt;SUNBELT2017社会网络分析国际研讨会&lt;/h1&gt;
@@ -1893,9 +1893,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>2017年社科项目进展</title>
-      <link>https://chengjunwang.com/zh/cn/2017-11-25-cn-project.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-11-25-cn-project.zh/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-11-25-cn-project.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-11-25-cn-project.zh/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;文献综述：采用引文分析等方法系统整理舆论扩散研究领域的论文和成果。尤其是针对舆论扩散的讨论模型进行了系统的总结，从参与者、议题、行动三个维度刻画了舆论扩散的过程。&lt;/li&gt;
 &lt;li&gt;数据获取：基本完成数据收集方案，获取1千万新浪微博用户的数据信息，建立新浪微博舆论扩散数据库；收集了占领华尔街这一主题的推特数据库；收集了Digg新闻扩散数据库。&lt;/li&gt;
@@ -1908,9 +1908,9 @@ parameter F test:         F=8.8419  , p=0.0005  , df_denom=17, df_num=4&lt;/p&gt
     
     <item>
       <title>2017年黑客马拉松之turkserver</title>
-      <link>https://chengjunwang.com/zh/cn/2017-12-14-turkserver.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-12-14-turkserver.zh/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-12-14-turkserver.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-12-14-turkserver.zh/</guid>
       <description>&lt;p&gt;turkserver&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://turkserver.readthedocs.io/&#34;&gt;http://turkserver.readthedocs.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;tutorialsquick-start&#34;&gt;Tutorials：quick start&lt;/h2&gt;
@@ -1992,9 +1992,9 @@ chengjuns-MacBook&lt;/p&gt;
     
     <item>
       <title>scholarNetwork: Visualizing Google Scholar Network</title>
-      <link>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</link>
+      <link>https://okanss.com/post/en/2015-02-22-scholarnetwork/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</guid>
+      <guid>https://okanss.com/post/en/2015-02-22-scholarnetwork/</guid>
       <description>&lt;h1 id=&#34;scholarnetwork&#34;&gt;scholarNetwork&lt;/h1&gt;
 &lt;p&gt;Developed by Cheng-Jun Wang &amp;amp; Lingfei Wu&lt;/p&gt;
 &lt;p&gt;Cheng-Jun Wang &lt;a href=&#34;mailto:wangchj04@gmail.com&#34;&gt;wangchj04@gmail.com&lt;/a&gt;
@@ -2029,17 +2029,17 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
             with_labels = True, arrows = True)
     plt.show()
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/example.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/example.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Of course, you can get a much larger graph to see what&amp;rsquo;s happening around you, just to change the value of Nmax. However, you have to be patient to wait for much longer time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/ego300large.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/ego300large.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>中国大百科：计算传播学</title>
-      <link>https://chengjunwang.com/zh/cn/2017-10-29-ccr.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-10-29-ccr.zh/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-10-29-ccr.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-10-29-ccr.zh/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;中文名称：计算传播学&lt;/li&gt;
 &lt;li&gt;拼音：jisuan chuanbo&lt;/li&gt;
@@ -2082,9 +2082,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>后记</title>
-      <link>https://chengjunwang.com/zh/cn/2017-12-05-backwords.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-12-05-backwords.zh/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-12-05-backwords.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-12-05-backwords.zh/</guid>
       <description>&lt;p&gt;2010年9月，我作为博士生进入到香港城市大学互联网挖掘实验室以来，切身感受到了传播学研究者在互联网时代的身份焦虑。1998年邓肯-瓦茨关于小世界网络的模型和1999年阿尔伯特-巴拉巴西关于幂律和无标度网络的研究复兴了网络科学。一石激起千层浪，在学术领域产生了深远的影响。对于万维网上的人类行为的研究也形成了一个子领域，被称之为万维网科学(Web Science);伴随着社交媒体等数字媒体的发展，对于社会学而言，社会网络分析开始受到前所未有的重视，对于传播学而言，社交网络上的信息流动网络研究也引起广泛的兴趣；与此同时，机器学习和数据科学取得了突飞猛进的发展，进一步加速了计算化的浪潮；在新闻传播产业当中，数据驱动的新闻生产、计算广告和媒体推荐系统开始成为席卷世界的潮流。面对海量的互联网数据、持续困扰人类的重大社会问题、崭新的理论视角、诱人的物理学模型，在世界大战中发展起来的新闻传播学研究会走向什么地方？这构成了困扰我们的时代问题。&lt;/p&gt;
 &lt;p&gt;面对这些挑战，或许很多人可以做一群鸵鸟，只盯住让自己感觉舒适的领域，当危险来的时候干脆把头埋进沙子里，但是年轻人没有逃避的理由。年轻研究者必须敢于冒险，才能走出不一样的路来。计算传播学正是回应这一时代叩问的一种尝试，它也给了传播学这个领域一个革命的火种。&lt;/p&gt;
 &lt;p&gt;“计算传播学”这个词的提出源于香港城市大学互联网挖掘实验室成员之间在2012年初的一次组会讨论。每周，祝建华老师都会组织实验室成员进行内部讨论，讨论的主要内容除了每个人的研究进展之外，还包括文献分享、经验见闻等内容。在我的印象里，在这次讨论当中，我们再一次讨论了2009年大卫-拉泽等人发表在科学杂志上的一篇文章《计算社会科学》。在这篇文章当中，来自社会科学、计算机科学、网络科学等领域的资深研究者们宣告了计算社会科学的诞生，它以大规模数据收集和数据分析作为主要的工具，采用网络科学作为主要的研究视角，力图揭示个体和群体行为的模式。2012年1月29日，我在新浪博客上写了一篇短文《计算传播学:宣言与版图》，强调了将寻找人类传播行为的可计算基因作为计算传播学的发展使命。这篇小文章首先在一个名为《数字媒体阅读报告》的小圈子里流传。
@@ -2095,9 +2095,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>扶贫数据</title>
-      <link>https://chengjunwang.com/zh/cn/2017-11-20-poverty.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-11-20-poverty.zh/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-11-20-poverty.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-11-20-poverty.zh/</guid>
       <description>&lt;p&gt;党的十九大报告再次对打赢脱贫攻坚战作出部署，明确指出重点攻克深度贫困地区脱贫任务，确保到2020年我国现行标准下农村人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困，做到脱真贫、真脱贫。&lt;/p&gt;
 &lt;p&gt;全国6000多万贫困人口稳定脱贫，贫困发生率从10.2%下降到4%以下。精准扶贫，不仅要精准施策，而且要精准到户。&lt;/p&gt;
 &lt;p&gt;眼下，脱贫攻坚战的主战场正在转移到深度贫困地区。今年6月份，习近平总书记在山西考察时，深刻论述了深度贫困问题。扶贫攻坚从精准扶贫到瞄准深度贫困，既是认识的深化&lt;/p&gt;
@@ -2106,9 +2106,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>JCR2017 for COMMUNICATION</title>
-      <link>https://chengjunwang.com/zh/cn/2017-09-06-jcr.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-09-06-jcr.zh/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-09-06-jcr.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-09-06-jcr.zh/</guid>
       <description>&lt;h1 id=&#34;jcr&#34;&gt;JCR&lt;/h1&gt;
 &lt;p&gt;Journal Data Filtered By:  Selected JCR Year: 2016 Selected Editions: SCIE,SSCI Selected Categories: &amp;lsquo;COMMUNICATION&amp;rsquo; Selected Category Scheme: WoS&lt;/p&gt;
 &lt;h2 id=&#34;sci和scie&#34;&gt;SCI和SCIE&lt;/h2&gt;
@@ -2685,10 +2685,10 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>集智俱乐部暑期研读营</title>
-      <link>https://chengjunwang.com/zh/cn/swarma-summer-camp.zh/</link>
+      <link>https://okanss.com/zh/cn/swarma-summer-camp.zh/</link>
       <pubDate>Tue, 18 Jul 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/swarma-summer-camp.zh/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/night.png&#34; alt=&#34;evening7.17&#34;&gt;&lt;/p&gt;
+      <guid>https://okanss.com/zh/cn/swarma-summer-camp.zh/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/night.png&#34; alt=&#34;evening7.17&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今年的研读营主要由吴令飞和尤亦庄负责。吴令飞主张研读营应该解决只有研读营才能做的事情。最初大家想分组搞一些研究项目，但考虑到大家因为项目的压力，每一个人都想得是一个可以deliver的东西。虫洞和weak tie有什么关联？boltzmann machine与社会计算？ising model与图灵机：一个社会系统在做计算。就人员组成而言，主要分成了社会科学组合物理学组两大阵营。&lt;/p&gt;
 &lt;h1 id=&#34;社科与物理两大阵营是否可以理解对方的工作&#34;&gt;社科与物理两大阵营是否可以理解对方的工作？&lt;/h1&gt;
 &lt;p&gt;社科和物理两大阵营作为两个组，每个组提议五对文献，任意一对论文有一篇好的，一篇是相对差的。于是两组分别出了一套题目，仅仅给出标题和摘要。&lt;/p&gt;
@@ -2698,9 +2698,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
 &lt;/ul&gt;
 &lt;p&gt;过程如下：首先，每个人选出自己认为正确的选项；然后，汇总并公示组内结果，每个人发表意见；最后，小组决议，投票决定。最终的结果如下图所示，社科组错了一个，物理组错了三个。&lt;/p&gt;
 &lt;p&gt;这个结果略微让人吃惊，因为一般人认为物理组比较难，社科的人难以理解。结果却是对于那些发表出来的文章而言，物理组更搞不清楚社科的难度（“水”）有多深。当然，第二种解读就是，社会科学太软、太水，需要太多的口耳相传的训练，仅仅习得表面的功夫就只能做表面文章。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/bd53c2608f5ec559393a88dd7dba0ea2.png&#34; alt=&#34;社科与物理两大阵营是否可以理解对方的工作&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/bd53c2608f5ec559393a88dd7dba0ea2.png&#34; alt=&#34;社科与物理两大阵营是否可以理解对方的工作&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;玻尔兹曼机&#34;&gt;玻尔兹曼机&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/36eda36920ae58ce5a77995d72cef623.png&#34; alt=&#34;boltzman-machine-graph&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/36eda36920ae58ce5a77995d72cef623.png&#34; alt=&#34;boltzman-machine-graph&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A graphical representation of an example Boltzmann machine. Each undirected edge represents dependency. In this example there are 3 hidden units and 4 visible units. This is not a restricted Boltzmann machine.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2751,40 +2751,40 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
 &lt;/ul&gt;
 &lt;p&gt;闭上眼猜测，睁开眼观察，比较二者的差别。&lt;/p&gt;
 &lt;h2 id=&#34;袁行远介绍雾霾预报&#34;&gt;袁行远介绍雾霾预报&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/fee8f8445f3dbf217887e078ed18ac81.png&#34; alt=&#34;雾霾&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/fee8f8445f3dbf217887e078ed18ac81.png&#34; alt=&#34;雾霾&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;肖达介绍rnn原理&#34;&gt;肖达介绍RNN原理&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/a94dd5e7b694f5bcb5ae680122ba5c9d.png&#34; alt=&#34;rnn&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/3b4701e0d6860abbb78959216c3b1d2d.png&#34; alt=&#34;xiaoda&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/a94dd5e7b694f5bcb5ae680122ba5c9d.png&#34; alt=&#34;rnn&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/3b4701e0d6860abbb78959216c3b1d2d.png&#34; alt=&#34;xiaoda&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;word2vec&#34;&gt;word2vec&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.tensorflow.org/tutorials/word2vec&#34;&gt;https://www.tensorflow.org/tutorials/word2vec&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;为什么深度学习有效&#34;&gt;为什么深度学习有效?&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/c577e1dc974990e2d7b7893293d15ea6.png&#34; alt=&#34;为什么深度学习有效&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/c577e1dc974990e2d7b7893293d15ea6.png&#34; alt=&#34;为什么深度学习有效&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The humans working behind the ai curtain&lt;/p&gt;
 &lt;h2 id=&#34;董磊介绍城市研究&#34;&gt;董磊介绍城市研究&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/90ef9b65b37fc877336c25e72113f1f4.png&#34; alt=&#34;董磊&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/ba1cceabb662ea98c1c629363f3c6736.png&#34; alt=&#34;制造业&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/90ef9b65b37fc877336c25e72113f1f4.png&#34; alt=&#34;董磊&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/ba1cceabb662ea98c1c629363f3c6736.png&#34; alt=&#34;制造业&#34;&gt;&lt;/p&gt;
 &lt;p&gt;制造业的衰落&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/74c1ad741f419d67ca138f463f2b4dc1.png&#34; alt=&#34;poverty&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/74c1ad741f419d67ca138f463f2b4dc1.png&#34; alt=&#34;poverty&#34;&gt;&lt;/p&gt;
 &lt;p&gt;贫穷&lt;/p&gt;
 &lt;h1 id=&#34;回到北京&#34;&gt;回到北京&lt;/h1&gt;
 &lt;p&gt;结束了四天古北水镇的研读营，来到清华参加集智年会。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/e7d31bd4fcfe761a74e217a8e7e9b07a.png&#34; alt=&#34;红杉假日酒店&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/15856c7ae7e5f065630ba2d673495ce1.png&#34; alt=&#34;yinyian&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/bb3f2ecdbbd34e663ea4e8fd07b20882.png&#34; alt=&#34;james&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/18eaee1d9c2c9c48cd0895ba502d06a4.png&#34; alt=&#34;substitutions&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/d65fa3234c4acc2d6ff49a6a8e492260.png&#34; alt=&#34;dashun&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/1636c0143f9fd911f1407c92ba936b44.png&#34; alt=&#34;dashun2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/e7d31bd4fcfe761a74e217a8e7e9b07a.png&#34; alt=&#34;红杉假日酒店&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/15856c7ae7e5f065630ba2d673495ce1.png&#34; alt=&#34;yinyian&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/bb3f2ecdbbd34e663ea4e8fd07b20882.png&#34; alt=&#34;james&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/18eaee1d9c2c9c48cd0895ba502d06a4.png&#34; alt=&#34;substitutions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/d65fa3234c4acc2d6ff49a6a8e492260.png&#34; alt=&#34;dashun&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/1636c0143f9fd911f1407c92ba936b44.png&#34; alt=&#34;dashun2&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;浮光掠影&#34;&gt;浮光掠影&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/05ec192dccf36de80f11b36ccc7fc38d.png&#34; alt=&#34;戚家牛杂&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/05ec192dccf36de80f11b36ccc7fc38d.png&#34; alt=&#34;戚家牛杂&#34;&gt;&lt;/p&gt;
 &lt;p&gt;参加了夜游长城的活动。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Tech2017大赛</title>
-      <link>https://chengjunwang.com/zh/cn/zjmobile.zh/</link>
+      <link>https://okanss.com/zh/cn/zjmobile.zh/</link>
       <pubDate>Sun, 16 Jul 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/zjmobile.zh/</guid>
+      <guid>https://okanss.com/zh/cn/zjmobile.zh/</guid>
       <description>&lt;p&gt;Data Tech2017大赛由中国移动浙江公司与浙江大数据交易中心联合主办，大赛以“数据众智美好未来”为主题，解锁运营商数据，整合气象、交通、空间等数据， 以“开放、互联”的精神激发全社会创新能量，共创美好未来。&lt;/p&gt;
 &lt;p&gt;数据改变了人类的生活方式，从衣、食、住、行到生产生活都离不开数据的支撑。数据，让一切有迹可循，让一切有源可溯。为了挖掘数据价值、实践数据赋能，推动大众创业、万众创新，由浙江省经济和信息化委员会指导，中国移动浙江公司和浙江大数据交易中心主办的Data Tech 2017浙江大数据建模与创新应用大赛即将拉开序幕。&lt;/p&gt;
 &lt;p&gt;本次Data Tech 2017浙江大数据建模与创新应用大赛以”数据众智美好未来”为主题，分为“模型挑战赛”和“众智创新赛”，并面向全社会开放，高等院校、科研单位、互联网企业、创客团队等人员均可报名参赛。数据集由中国移动浙江公司和浙江大数据交易中心会员单位授权提供，所有数据均以经过脱敏处理，切实保障数据安全。参赛者们利用数据分析方法，挖掘数据价值，探索数据应用，寻找真实业务问题和社会问题的解决方案。&lt;/p&gt;
@@ -2831,9 +2831,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>王成军参与组织数字人文大会</title>
-      <link>https://chengjunwang.com/zh/cn/2017-07-01-digital-humanities.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-07-01-digital-humanities.zh/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-07-01-digital-humanities.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-07-01-digital-humanities.zh/</guid>
       <description>&lt;p&gt;2017年7月1日—2日南京大学数字人文大会在仙林校区国际会议中心召开。此次大会主题为“数字人文：大数据时代学术前沿与探索”。“数字人文”是目前国际最具潜力的新兴学科和前沿研究领域，具有创新性强、多学科交叉、研究者年轻化的特点。近十多年来，越来越多独立的“数字人文中心（系）”在北美和欧洲开设，比如美国的斯坦福大学、弗吉尼亚大学、加州大学，英国的国王学院，加拿大的阿尔伯特大学等等。这些机构不仅拥有专职研究人员和技术工程师，同时还开展了很多跨学科项目，涉及历史、考古、艺术史、文学、建筑等多个学术领域，并开始招收、培养硕士和博士研究生。&lt;/p&gt;
 &lt;p&gt;视频回放，&lt;a href=&#34;http://zb.shixiutv.com/Play.aspx?pid=hy516044&amp;amp;code=011LXDxQ0TtXeb2df7wQ0ADHxQ0LXDxi&amp;amp;state=1&#34;&gt;链接&lt;/a&gt;， 密码5954&lt;/p&gt;
 &lt;p&gt;中国学界自2010年前后开始关注“数字人文”领域，武汉大学2011年成立了中国内地高校中的第一个数字人文中心。台湾大学及台湾中央研究院自2009年起每年举办“数位人文/数位典藏”的国际研讨会，北京大学与清华大学在2016年1月共同组织了主题大会，上海大学在2015年12月，南开大学在2016年11月都召开了相关的国际研讨会，受到了学界的广泛关注和学者们的积极参与，影响巨大。&lt;/p&gt;
@@ -2859,9 +2859,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>气候变迁研究：数据、调查、视角</title>
-      <link>https://chengjunwang.com/zh/cn/climate-change.zh/</link>
+      <link>https://okanss.com/zh/cn/climate-change.zh/</link>
       <pubDate>Thu, 29 Jun 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/climate-change.zh/</guid>
+      <guid>https://okanss.com/zh/cn/climate-change.zh/</guid>
       <description>&lt;h2 id=&#34;data-for-climate-change&#34;&gt;Data for Climate Change&lt;/h2&gt;
 &lt;p&gt;Big data has big potential for applications to climate change adaptation. PNAS 2016
 &lt;a href=&#34;http://www.dataforclimateaction.org/home/data/&#34;&gt;http://www.dataforclimateaction.org/home/data/&lt;/a&gt;&lt;/p&gt;
@@ -2908,9 +2908,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>社会行为研究在线实验平台</title>
-      <link>https://chengjunwang.com/zh/cn/2017-6-24-turk.zh/</link>
+      <link>https://okanss.com/zh/cn/2017-6-24-turk.zh/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/zh/cn/2017-6-24-turk.zh/</guid>
+      <guid>https://okanss.com/zh/cn/2017-6-24-turk.zh/</guid>
       <description>&lt;h1 id=&#34;实验法&#34;&gt;实验法&lt;/h1&gt;
 &lt;p&gt;实验研究方法是由伽利略所发明的一种研究方法，成为了自然科学和社会科学研究最为重要的工具。自然科学取得了辉煌的研究成果，以物理学为例，主要的实证研究成果都来自于实验研究方法。社会科学的发展仅仅经历了不到三百年，最初主要模仿物理学的发展路径，例如，孔德最初将社会学命名为社会物理学，他认为人类社会是自然界的一个部分，人为的社会秩序通常可以看作自然秩序的延伸。然而，社会科学研究的研究对象&amp;ndash;人类具有意识、通过社会互动相互关联，构成了一种复杂系统，其复杂度远远超过自然科学，被邓肯-瓦茨称之为“二十一世纪的科学”。社会科学的实验往往局限于实验室内部，只能针对有限的人群（多为高校学生）开展实验研究，其外部效度有限，难以帮助研究者理解真实的社会和人类行为。&lt;/p&gt;
 &lt;h1 id=&#34;问题&#34;&gt;问题&lt;/h1&gt;
@@ -2948,9 +2948,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>News Map of China</title>
-      <link>https://chengjunwang.com/post/post_archive/news-map/</link>
+      <link>https://okanss.com/post/post_archive/news-map/</link>
       <pubDate>Mon, 13 Feb 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/news-map/</guid>
+      <guid>https://okanss.com/post/post_archive/news-map/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://chengjunwang.com/newsmap/#edu/2011&#34;&gt;News Map&lt;/a&gt; is built upon cartogram.js (a JavaScript implementation of an algoritm to construct continuous area cartograms ©1985), d3.js and colorbrewer. This visualization combines TopoJSON-encoded boundaries of the Chinese provinces with GDP data from National Bureau Statistics of the People&amp;rsquo;s Republic of China to size each province proportionally. Designed and built by Chengjun Wang and Zhicong Chen at Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://chengjunwang.com/newsmap/#edu/2011&#34;&gt;Read More &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;related-publication&#34;&gt;Related Publication:&lt;/h2&gt;
@@ -2960,20 +2960,20 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>Visualizing Global Terrorism using googleVis</title>
-      <link>https://chengjunwang.com/post/post_archive/global-terrorism/</link>
+      <link>https://okanss.com/post/post_archive/global-terrorism/</link>
       <pubDate>Mon, 13 Feb 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/global-terrorism/</guid>
+      <guid>https://okanss.com/post/post_archive/global-terrorism/</guid>
       <description>&lt;p&gt;Using the Data from Global Terrorism Database (GTD) and googleVis-0.5.8, I visualize the global terrorism attacks over time. The remarkable negative relationship between kills and political stability can clearly observed.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/headers/terrorism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/headers/terrorism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://chengjun.github.io/datajournalism/vis/terrorism/&#34;&gt;Read More &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>networkdiffusion: Simulating and Visualizing Network Diffusion Using R</title>
-      <link>https://chengjunwang.com/post/post_archive/networkdiffusion/</link>
+      <link>https://okanss.com/post/post_archive/networkdiffusion/</link>
       <pubDate>Mon, 13 Feb 2017 14:16:05 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/networkdiffusion/</guid>
+      <guid>https://okanss.com/post/post_archive/networkdiffusion/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34;&gt;networkdiffusion&lt;/a&gt;, an R package which can help simulate and visualize the network diffusion. &lt;a href=&#34;http://chengjunwang.com/network-diffusion/#/&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;related-activity&#34;&gt;Related Activity&lt;/h2&gt;
 &lt;p&gt;Wang, C.J. (2017) &lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34;&gt;networkdiffusion&lt;/a&gt;: Simulating and Visualizing Network Diffusion Using R. The 10th China R Conference. Beijing, May 20-21.&lt;/p&gt;
@@ -2982,18 +2982,18 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>scholarnetwork: Crawl and Visualize the Coauthor Network</title>
-      <link>https://chengjunwang.com/post/post_archive/scholarnetwork/</link>
+      <link>https://okanss.com/post/post_archive/scholarnetwork/</link>
       <pubDate>Mon, 13 Feb 2017 14:15:51 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/scholarnetwork/</guid>
+      <guid>https://okanss.com/post/post_archive/scholarnetwork/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://pypi.python.org/pypi/scholarNetwork/&#34;&gt;scholarNetwork&lt;/a&gt;, a Python package to crawl and visualize the coauthor network of Google Scholars.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iching: Practising Divination of I Ching</title>
-      <link>https://chengjunwang.com/post/post_archive/iching/</link>
+      <link>https://okanss.com/post/post_archive/iching/</link>
       <pubDate>Mon, 13 Feb 2017 14:15:36 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/iching/</guid>
+      <guid>https://okanss.com/post/post_archive/iching/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://pypi.python.org/pypi/iching/&#34;&gt;iching&lt;/a&gt;, a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -3001,9 +3001,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>Deploy Hugo-Academic on Github Pages</title>
-      <link>https://chengjunwang.com/post/post_archive/hugo2github/</link>
+      <link>https://okanss.com/post/post_archive/hugo2github/</link>
       <pubDate>Mon, 13 Feb 2017 12:54:27 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/hugo2github/</guid>
+      <guid>https://okanss.com/post/post_archive/hugo2github/</guid>
       <description>&lt;p&gt;I tried to move from jekyll to hugo to enhance my personal website. But I still want to use Github Pages to host the generated html files (in the &lt;code&gt;Public&lt;/code&gt; folder). The trick is you have to move the files in the &lt;code&gt;Public&lt;/code&gt; folder to the local folder of your github folder.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Create on GitHub &lt;code&gt;mywebsite-hugo&lt;/code&gt; repository (it will host Hugo’s content)&lt;/li&gt;
@@ -3070,16 +3070,16 @@ cd ..
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/post_archive/getting-started/</link>
+      <link>https://okanss.com/post/post_archive/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/getting-started/</guid>
+      <guid>https://okanss.com/post/post_archive/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -3133,11 +3133,11 @@ cd ..
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;customization--upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 &lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
@@ -3196,9 +3196,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://chengjunwang.com/post/post_archive/writing-markdown-latex/</link>
+      <link>https://okanss.com/post/post_archive/writing-markdown-latex/</link>
       <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/writing-markdown-latex/</guid>
+      <guid>https://okanss.com/post/post_archive/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
 &lt;p&gt;This article gives an overview of the most common formatting options.&lt;/p&gt;
 &lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
@@ -3350,7 +3350,7 @@ input_string_var &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; input(
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option allows you to specify additional languages that are supported by highlight.js, but are not considered &amp;ldquo;common&amp;rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;, &amp;quot;clojure&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. If, on the other hand, you want to enable a language only for a specific page, you can set &lt;code&gt;highlight_languages&lt;/code&gt; in that page&amp;rsquo;s preamble.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; options specified in &lt;code&gt;config.toml&lt;/code&gt; and in a page&amp;rsquo;s preamble are additive. That is, if &lt;code&gt;config.toml&lt;/code&gt; contains, &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;]&lt;/code&gt; and the page&amp;rsquo;s preamble contains &lt;code&gt;highlight_languages = [&amp;quot;ocaml&amp;quot;]&lt;/code&gt;, then javascript files for &lt;em&gt;both&lt;/em&gt; go and ocaml will be included for that page.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://chengjunwang.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://okanss.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;option-highlight_style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set &lt;code&gt;highlight_style = &amp;quot;solarized-dark&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option is unset, the default is to use the file &lt;code&gt;/css/highlight.min.css&lt;/code&gt;, either the one provided by the Academic theme, or else the one in your local &lt;code&gt;static&lt;/code&gt; directory.  The &lt;code&gt;/css/highlight.min.css&lt;/code&gt; file provided by Academic is equivalent to the &lt;code&gt;github&lt;/code&gt; style from highlight.js.&lt;/p&gt;
@@ -3435,16 +3435,16 @@ Here&#39;s some important information...
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/getting-started/</link>
+      <link>https://okanss.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/getting-started/</guid>
+      <guid>https://okanss.com/post/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -3499,11 +3499,11 @@ Here&#39;s some important information...
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 &lt;p&gt;The following color themes are available and can be set by the &lt;code&gt;color_theme&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
 &lt;table&gt;
@@ -3602,9 +3602,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://chengjunwang.com/post/widgets/</link>
+      <link>https://okanss.com/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/widgets/</guid>
+      <guid>https://okanss.com/post/widgets/</guid>
       <description>&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;About/biography&lt;/li&gt;
@@ -3645,12 +3645,12 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://chengjunwang.com/post/managing-content/</link>
+      <link>https://okanss.com/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;header&lt;/span&gt;]
 &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;headers/getting-started.png&amp;#34;&lt;/span&gt;
@@ -3791,16 +3791,16 @@ widgets = true
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/note/note_archive/2000-04-20-getting-started/</link>
+      <link>https://okanss.com/note/note_archive/2000-04-20-getting-started/</link>
       <pubDate>Thu, 20 Apr 2000 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/note/note_archive/2000-04-20-getting-started/</guid>
+      <guid>https://okanss.com/note/note_archive/2000-04-20-getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -3854,11 +3854,11 @@ widgets = true
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;customization--upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 &lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;

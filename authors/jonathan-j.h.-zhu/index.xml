@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonathan J.H. Zhu | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/authors/jonathan-j.h.-zhu/</link>
-      <atom:link href="https://chengjunwang.com/authors/jonathan-j.h.-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <title>Jonathan J.H. Zhu | Okan Bursa</title>
+    <link>https://okanss.com/authors/jonathan-j.h.-zhu/</link>
+      <atom:link href="https://okanss.com/authors/jonathan-j.h.-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan J.H. Zhu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Sun, 03 Mar 2019 22:20:56 +0800</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>Jonathan J.H. Zhu</title>
-      <link>https://chengjunwang.com/authors/jonathan-j.h.-zhu/</link>
+      <link>https://okanss.com/authors/jonathan-j.h.-zhu/</link>
     </image>
     
     <item>
       <title>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website</title>
-      <link>https://chengjunwang.com/publication/bandwagon/</link>
+      <link>https://okanss.com/publication/bandwagon/</link>
       <pubDate>Sun, 03 Mar 2019 22:20:56 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/bandwagon/</guid>
+      <guid>https://okanss.com/publication/bandwagon/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cheng-Jun Wang $ ^{a,b}$ * , Jonathan J.H. Zhu ${^b}$&lt;/p&gt;
 &lt;p&gt;$^a$ Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University, Nanjing, China&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Discussing Occupy Wall Street on Twitter</title>
-      <link>https://chengjunwang.com/publication/dicuss-ows-tweets/</link>
+      <link>https://okanss.com/publication/dicuss-ows-tweets/</link>
       <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/publication/dicuss-ows-tweets/</guid>
+      <guid>https://okanss.com/publication/dicuss-ows-tweets/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

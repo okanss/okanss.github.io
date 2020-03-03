@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huimin Xu | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/authors/huimin-xu/</link>
-      <atom:link href="https://chengjunwang.com/authors/huimin-xu/index.xml" rel="self" type="application/rss+xml" />
+    <title>Huimin Xu | Okan Bursa</title>
+    <link>https://okanss.com/authors/huimin-xu/</link>
+      <atom:link href="https://okanss.com/authors/huimin-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Huimin Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>Huimin Xu</title>
-      <link>https://chengjunwang.com/authors/huimin-xu/</link>
+      <link>https://okanss.com/authors/huimin-xu/</link>
     </image>
     
     <item>
       <title>The Cinderella complex: Word embeddings reveal gender stereotypes in movies and books</title>
-      <link>https://chengjunwang.com/publication/storytelling/</link>
+      <link>https://okanss.com/publication/storytelling/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/publication/storytelling/</guid>
+      <guid>https://okanss.com/publication/storytelling/</guid>
       <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Xu H, Zhang Z, Wu L*, *Wang C.J.* * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE 14(11): e0225385. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0225385&#34;&gt;doi:10.1371/journal.pone.0225385&lt;/a&gt;&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;We firstly construct a vector representing the dimension of happy versus unhappy from pre-trained word vectors using Google News data [17]. The distance from this vector to other word vectors represents the “happiness score” of the corresponding words. The average of “happiness scores” over the timeline of stories quantifies their shape. Moreover, by controlling the window size to analyze only the words surrounding specific names, we can track the “happiness scores” of different characters. Using these techniques, we find that in the movie synopsis of Cinderella, the happiness of Ella (Cinderella) depends on Kit (Prince) but not vice versa. This finding supports the “Cinderella complex” [18], a narrative structure enhancing the stereotypical incompetence of women. Applying our analysis to 6,087 movie synopses, 1,109 movie scripts, and 7,226 books, we observe the vast existence of this narrative structure. Our review of the words surrounding characters unpack their stereotypical life packages; the lives of males are adventure-oriented, whereas the lives of females are romantic-relationship oriented. Finally, we reveal the social endorsement of gender stereotypes by identifying the association between the strength of gender stereotypes in movie synopses and the IMDB ratings to the analyzed movies.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/2019/journal.pone.0225385.g001.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/2019/journal.pone.0225385.g001.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Fig 1. The Cinderella complex. a, Visualizing the sentiment landscape of the movie synopsis of Cinderella as a skyline (a black outline is added to enhance the “skyline”metaphor visually). We show sentences in a vertical schema, colored by their “happiness score”—green for happy and red for unhappy and the transparency represents the scale of the scores. Filled squares (orange for Ella and blue for Kit) indicate the co-occurrence of Ella (Cinderella) and Kit (the Prince) in the same sentence. Hollow squares indicate where only one character appears: b, The happiness curves of Ella (orange) and Kit (blue). The grey dotted lines marks the sentences in which they co-occur, corresponding to the filled squares in Panel a. We fit the increase or decrease in happiness scores across successive co-occurrences with OLS regression (see Methods for more information). Thick lines show the estimates of regression.&lt;/p&gt;
 &lt;p&gt;Our analysis of the words surrounding female and male characters shows that the lives of males are adventure-oriented, whereas the lives of females are romantic-relationship oriented. Finally, we demonstrate the social endorsement of gender stereotypes by showing that gender-stereotypical movies are voted more frequently and rated higher.&lt;/p&gt;
 </description>

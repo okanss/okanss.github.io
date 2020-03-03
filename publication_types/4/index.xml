@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/publication_types/4/</link>
-      <atom:link href="https://chengjunwang.com/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <title>4 | Okan Bursa</title>
+    <link>https://okanss.com/publication_types/4/</link>
+      <atom:link href="https://okanss.com/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>4</title>
-      <link>https://chengjunwang.com/publication_types/4/</link>
+      <link>https://okanss.com/publication_types/4/</link>
     </image>
     
     <item>
       <title>Elements of Computational Communication</title>
-      <link>https://chengjunwang.com/publication/ccbook/</link>
+      <link>https://okanss.com/publication/ccbook/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/publication/ccbook/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/headers/ccbooklogo2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>https://okanss.com/publication/ccbook/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/headers/ccbooklogo2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My ebook &lt;strong&gt;Elements of Computational Communication (In Chinese 计算传播基础）&lt;/strong&gt; is now available online, enjoy! &lt;a href=&#34;http://computational-class.github.io/ccbook/&#34;&gt;http://computational-class.github.io/ccbook/&lt;/a&gt;. It is based on two related master courses:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/computational-class/bigdata&#34;&gt;https://github.com/computational-class/bigdata&lt;/a&gt;&lt;/li&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>找回失落的参考群体：对沉默的螺旋理论的边界条件的考察</title>
-      <link>https://chengjunwang.com/publication/abm-sos/</link>
+      <link>https://okanss.com/publication/abm-sos/</link>
       <pubDate>Tue, 01 Jan 2019 11:33:49 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/abm-sos/</guid>
+      <guid>https://okanss.com/publication/abm-sos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[Abstract]&lt;/strong&gt; The purpose of this study is threefold: first, to bring reference groups back into the framework of spiral of silence (SOS) by proposing an integrated framework of dual opinion climate; second, to investigate the boundary conditions of SOS; third, to identify the characteristics of SOS in terms of spatial variation and temporal evolution. Modeling SOS with agent-based models, the findings suggest that there is no guarantee of SOS with reference groups being brought back; the stable existence of SOS is contingent upon the comparative strength of mass media over reference groups; SOS is size-dependent upon reference groups and the population; the growth rate of SOS decreases over time. Thus, this research presents an extension of the SOS theory.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Key Words]&lt;/strong&gt; spiral of silence; agent-based model; reference group; size-dependent; computational communication research&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;引用&lt;/strong&gt;: 王成军，党明辉，杜骏飞 (2019) 找回失落的参考群体:对沉默的螺旋理论的边界条件的考察. 新闻大学. 156:13-29. &lt;a href=&#34;http://mall.cnki.net/magazine/Article/XWDX201904005.htm&#34;&gt;http://mall.cnki.net/magazine/Article/XWDX201904005.htm&lt;/a&gt; （入选人大复印资料新闻与传播2019年第8期）&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>计算传播学导论</title>
-      <link>https://chengjunwang.com/publication/ccr-book/</link>
+      <link>https://okanss.com/publication/ccr-book/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/publication/ccr-book/</guid>
+      <guid>https://okanss.com/publication/ccr-book/</guid>
       <description>&lt;p&gt;&lt;strong&gt;《计算传播学导论》&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;作者: 张伦 / 王成军 / 许小可&lt;/li&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>计算社会科学视野下的新闻学研究：挑战与机遇</title>
-      <link>https://chengjunwang.com/publication/computational-journalism/</link>
+      <link>https://okanss.com/publication/computational-journalism/</link>
       <pubDate>Tue, 15 Aug 2017 11:33:49 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/computational-journalism/</guid>
+      <guid>https://okanss.com/publication/computational-journalism/</guid>
       <description>&lt;p&gt;&lt;strong&gt;引用&lt;/strong&gt;: 王成军(2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学,(04):26-32 （入选人大复印资料新闻与传播2017年第10期）&lt;/p&gt;
 &lt;h3 id=&#34;journalism-studies-in-the-perspective-of-computational-social-science-challenges-and-opportunities&#34;&gt;Journalism Studies in the Perspective of Computational Social Science: Challenges and Opportunities&lt;/h3&gt;
 &lt;p&gt;WANG Cheng-Jun&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -152,68 +152,68 @@
     
     <item>
       <title>作为社会动员过程的互联网众筹公益：以腾讯乐捐为例</title>
-      <link>https://chengjunwang.com/publication/crowdfunding-charity/</link>
+      <link>https://okanss.com/publication/crowdfunding-charity/</link>
       <pubDate>Thu, 09 Mar 2017 10:49:09 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/crowdfunding-charity/</guid>
+      <guid>https://okanss.com/publication/crowdfunding-charity/</guid>
       <description>&lt;p&gt;In submission.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>空间约束的人类行为</title>
-      <link>https://chengjunwang.com/publication/lbs-behavior/</link>
+      <link>https://okanss.com/publication/lbs-behavior/</link>
       <pubDate>Fri, 24 Feb 2017 15:23:43 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/lbs-behavior/</guid>
+      <guid>https://okanss.com/publication/lbs-behavior/</guid>
       <description>&lt;p&gt;王成军、吴令飞(2017)空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>计算传播学的起源、概念和应用</title>
-      <link>https://chengjunwang.com/publication/cc-origin/</link>
+      <link>https://okanss.com/publication/cc-origin/</link>
       <pubDate>Sun, 15 May 2016 11:53:36 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/cc-origin/</guid>
+      <guid>https://okanss.com/publication/cc-origin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大数据计算与《纸牌屋》生成</title>
-      <link>https://chengjunwang.com/publication/big-data-house/</link>
+      <link>https://okanss.com/publication/big-data-house/</link>
       <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/publication/big-data-house/</guid>
+      <guid>https://okanss.com/publication/big-data-house/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2015年中国新闻传播学论著评析</title>
-      <link>https://chengjunwang.com/publication/com-books2015/</link>
+      <link>https://okanss.com/publication/com-books2015/</link>
       <pubDate>Tue, 08 Mar 2016 12:15:21 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/com-books2015/</guid>
+      <guid>https://okanss.com/publication/com-books2015/</guid>
       <description>&lt;p&gt;杜骏飞, 曲飞帆, &lt;strong&gt;王成军&lt;/strong&gt;（2016）2015年中国新闻传播学论著评析. 新闻与传播研究，12：108-119&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>“今日头条”的技术逻辑：网络爬虫&#43;矩阵筛选</title>
-      <link>https://chengjunwang.com/publication/toutiao-logic/</link>
+      <link>https://okanss.com/publication/toutiao-logic/</link>
       <pubDate>Mon, 05 Oct 2015 12:15:21 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/toutiao-logic/</guid>
+      <guid>https://okanss.com/publication/toutiao-logic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>计算传播学:作为计算社会科学的传播学</title>
-      <link>https://chengjunwang.com/publication/cc-intro/</link>
+      <link>https://okanss.com/publication/cc-intro/</link>
       <pubDate>Fri, 13 Feb 2015 12:03:36 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/cc-intro/</guid>
+      <guid>https://okanss.com/publication/cc-intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>计算社会科学在新闻传播研究中的应用</title>
-      <link>https://chengjunwang.com/publication/ccs-application/</link>
+      <link>https://okanss.com/publication/ccs-application/</link>
       <pubDate>Thu, 20 Mar 2014 12:18:49 +0800</pubDate>
-      <guid>https://chengjunwang.com/publication/ccs-application/</guid>
+      <guid>https://okanss.com/publication/ccs-application/</guid>
       <description></description>
     </item>
     

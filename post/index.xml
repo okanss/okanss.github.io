@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/post/</link>
-      <atom:link href="https://chengjunwang.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Okan Bursa</title>
+    <link>https://okanss.com/post/</link>
+      <atom:link href="https://okanss.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>All rights © reserved 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>https://chengjunwang.com/img/headers/deer.webp</url>
+      <url>https://okanss.com/img/headers/deer.webp</url>
       <title>Posts</title>
-      <link>https://chengjunwang.com/post/</link>
+      <link>https://okanss.com/post/</link>
     </image>
     
     <item>
       <title>YouTube Playlist for the 2019 Summer Institute in Computational Social Science</title>
-      <link>https://chengjunwang.com/post/en/2019-11-09-css-videos/</link>
+      <link>https://okanss.com/post/en/2019-11-09-css-videos/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2019-11-09-css-videos/</guid>
+      <guid>https://okanss.com/post/en/2019-11-09-css-videos/</guid>
       <description>&lt;p&gt;YouTube Playlist for the 2019 Summer Institute in Computational Social Science&lt;/p&gt;
 &lt;p&gt;本课程需要各组同学帮助完成一个视频下载任务，这个视频列表是Matthew J. Salganik 2019年的一个暑期课程，https://compsocialscience.github.io/summer-institute/2019/ ， Salganik还非常热心地写了一本开源书叫Bit By Bit: Social Research in the Digital Age &lt;a href=&#34;https://www.bitbybitbook.com/&#34;&gt;https://www.bitbybitbook.com/&lt;/a&gt; 。这个视频播放列表涵盖了暑期课的基本内容，简明地介绍了计算社会科学的基础知识，与我们的这门课程紧密相关。我们的课程侧重于编程操作，对于研究设计和背后的思考介绍的不够充分，Salganik的工作是一个很好的补充。&lt;/p&gt;
 &lt;p&gt;可惜这个课程发布在youtube上，国内无法看到。我自己下载速度太慢，按照Salganik的idea，这种工作适合于采用mass collaboration来完成，因此我厚着脸皮给大家分配这个任务。&lt;/p&gt;
@@ -402,9 +402,9 @@
     
     <item>
       <title>Journal Citation Report 2019 for Communication Journals</title>
-      <link>https://chengjunwang.com/post/en/2019-07-11-jcr/</link>
+      <link>https://okanss.com/post/en/2019-07-11-jcr/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2019-07-11-jcr/</guid>
+      <guid>https://okanss.com/post/en/2019-07-11-jcr/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1046,9 +1046,9 @@
     
     <item>
       <title>scholarNetwork: Visualizing Google Scholar Network</title>
-      <link>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</link>
+      <link>https://okanss.com/post/en/2015-02-22-scholarnetwork/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</guid>
+      <guid>https://okanss.com/post/en/2015-02-22-scholarnetwork/</guid>
       <description>&lt;h1 id=&#34;scholarnetwork&#34;&gt;scholarNetwork&lt;/h1&gt;
 &lt;p&gt;Developed by Cheng-Jun Wang &amp;amp; Lingfei Wu&lt;/p&gt;
 &lt;p&gt;Cheng-Jun Wang &lt;a href=&#34;mailto:wangchj04@gmail.com&#34;&gt;wangchj04@gmail.com&lt;/a&gt;
@@ -1083,17 +1083,17 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
             with_labels = True, arrows = True)
     plt.show()
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/example.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/example.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Of course, you can get a much larger graph to see what&amp;rsquo;s happening around you, just to change the value of Nmax. However, you have to be patient to wait for much longer time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/ego300large.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/qiniu/ego300large.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>News Map of China</title>
-      <link>https://chengjunwang.com/post/post_archive/news-map/</link>
+      <link>https://okanss.com/post/post_archive/news-map/</link>
       <pubDate>Mon, 13 Feb 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/news-map/</guid>
+      <guid>https://okanss.com/post/post_archive/news-map/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://chengjunwang.com/newsmap/#edu/2011&#34;&gt;News Map&lt;/a&gt; is built upon cartogram.js (a JavaScript implementation of an algoritm to construct continuous area cartograms ©1985), d3.js and colorbrewer. This visualization combines TopoJSON-encoded boundaries of the Chinese provinces with GDP data from National Bureau Statistics of the People&amp;rsquo;s Republic of China to size each province proportionally. Designed and built by Chengjun Wang and Zhicong Chen at Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://chengjunwang.com/newsmap/#edu/2011&#34;&gt;Read More &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;related-publication&#34;&gt;Related Publication:&lt;/h2&gt;
@@ -1103,20 +1103,20 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>Visualizing Global Terrorism using googleVis</title>
-      <link>https://chengjunwang.com/post/post_archive/global-terrorism/</link>
+      <link>https://okanss.com/post/post_archive/global-terrorism/</link>
       <pubDate>Mon, 13 Feb 2017 14:32:07 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/global-terrorism/</guid>
+      <guid>https://okanss.com/post/post_archive/global-terrorism/</guid>
       <description>&lt;p&gt;Using the Data from Global Terrorism Database (GTD) and googleVis-0.5.8, I visualize the global terrorism attacks over time. The remarkable negative relationship between kills and political stability can clearly observed.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/headers/terrorism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://okanss.com/img/headers/terrorism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://chengjun.github.io/datajournalism/vis/terrorism/&#34;&gt;Read More &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>networkdiffusion: Simulating and Visualizing Network Diffusion Using R</title>
-      <link>https://chengjunwang.com/post/post_archive/networkdiffusion/</link>
+      <link>https://okanss.com/post/post_archive/networkdiffusion/</link>
       <pubDate>Mon, 13 Feb 2017 14:16:05 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/networkdiffusion/</guid>
+      <guid>https://okanss.com/post/post_archive/networkdiffusion/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34;&gt;networkdiffusion&lt;/a&gt;, an R package which can help simulate and visualize the network diffusion. &lt;a href=&#34;http://chengjunwang.com/network-diffusion/#/&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;related-activity&#34;&gt;Related Activity&lt;/h2&gt;
 &lt;p&gt;Wang, C.J. (2017) &lt;a href=&#34;https://github.com/chengjun/networkdiffusion&#34;&gt;networkdiffusion&lt;/a&gt;: Simulating and Visualizing Network Diffusion Using R. The 10th China R Conference. Beijing, May 20-21.&lt;/p&gt;
@@ -1125,18 +1125,18 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>scholarnetwork: Crawl and Visualize the Coauthor Network</title>
-      <link>https://chengjunwang.com/post/post_archive/scholarnetwork/</link>
+      <link>https://okanss.com/post/post_archive/scholarnetwork/</link>
       <pubDate>Mon, 13 Feb 2017 14:15:51 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/scholarnetwork/</guid>
+      <guid>https://okanss.com/post/post_archive/scholarnetwork/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://pypi.python.org/pypi/scholarNetwork/&#34;&gt;scholarNetwork&lt;/a&gt;, a Python package to crawl and visualize the coauthor network of Google Scholars.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iching: Practising Divination of I Ching</title>
-      <link>https://chengjunwang.com/post/post_archive/iching/</link>
+      <link>https://okanss.com/post/post_archive/iching/</link>
       <pubDate>Mon, 13 Feb 2017 14:15:36 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/iching/</guid>
+      <guid>https://okanss.com/post/post_archive/iching/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://pypi.python.org/pypi/iching/&#34;&gt;iching&lt;/a&gt;, a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -1144,9 +1144,9 @@ Lingfei Wu &lt;a href=&#34;mailto:wlf850927@gmail.com&#34;&gt;wlf850927@gmail.co
     
     <item>
       <title>Deploy Hugo-Academic on Github Pages</title>
-      <link>https://chengjunwang.com/post/post_archive/hugo2github/</link>
+      <link>https://okanss.com/post/post_archive/hugo2github/</link>
       <pubDate>Mon, 13 Feb 2017 12:54:27 +0800</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/hugo2github/</guid>
+      <guid>https://okanss.com/post/post_archive/hugo2github/</guid>
       <description>&lt;p&gt;I tried to move from jekyll to hugo to enhance my personal website. But I still want to use Github Pages to host the generated html files (in the &lt;code&gt;Public&lt;/code&gt; folder). The trick is you have to move the files in the &lt;code&gt;Public&lt;/code&gt; folder to the local folder of your github folder.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Create on GitHub &lt;code&gt;mywebsite-hugo&lt;/code&gt; repository (it will host Hugo’s content)&lt;/li&gt;
@@ -1213,16 +1213,16 @@ cd ..
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/post_archive/getting-started/</link>
+      <link>https://okanss.com/post/post_archive/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/getting-started/</guid>
+      <guid>https://okanss.com/post/post_archive/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -1276,11 +1276,11 @@ cd ..
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;customization--upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
 &lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
@@ -1339,9 +1339,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://chengjunwang.com/post/post_archive/widgets/</link>
+      <link>https://okanss.com/post/post_archive/widgets/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/widgets/</guid>
+      <guid>https://okanss.com/post/post_archive/widgets/</guid>
       <description>&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;About/biography&lt;/li&gt;
@@ -1380,12 +1380,12 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://chengjunwang.com/post/post_archive/managing-content/</link>
+      <link>https://okanss.com/post/post_archive/managing-content/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/post_archive/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;header&lt;/span&gt;]
 &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;headers/getting-started.png&amp;#34;&lt;/span&gt;
@@ -1470,9 +1470,9 @@ hugo new talk/_index.md
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://chengjunwang.com/post/post_archive/writing-markdown-latex/</link>
+      <link>https://okanss.com/post/post_archive/writing-markdown-latex/</link>
       <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/writing-markdown-latex/</guid>
+      <guid>https://okanss.com/post/post_archive/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
 &lt;p&gt;This article gives an overview of the most common formatting options.&lt;/p&gt;
 &lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
@@ -1624,7 +1624,7 @@ input_string_var &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; input(
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option allows you to specify additional languages that are supported by highlight.js, but are not considered &amp;ldquo;common&amp;rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;, &amp;quot;clojure&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. If, on the other hand, you want to enable a language only for a specific page, you can set &lt;code&gt;highlight_languages&lt;/code&gt; in that page&amp;rsquo;s preamble.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; options specified in &lt;code&gt;config.toml&lt;/code&gt; and in a page&amp;rsquo;s preamble are additive. That is, if &lt;code&gt;config.toml&lt;/code&gt; contains, &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;]&lt;/code&gt; and the page&amp;rsquo;s preamble contains &lt;code&gt;highlight_languages = [&amp;quot;ocaml&amp;quot;]&lt;/code&gt;, then javascript files for &lt;em&gt;both&lt;/em&gt; go and ocaml will be included for that page.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://chengjunwang.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://okanss.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;option-highlight_style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set &lt;code&gt;highlight_style = &amp;quot;solarized-dark&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option is unset, the default is to use the file &lt;code&gt;/css/highlight.min.css&lt;/code&gt;, either the one provided by the Academic theme, or else the one in your local &lt;code&gt;static&lt;/code&gt; directory.  The &lt;code&gt;/css/highlight.min.css&lt;/code&gt; file provided by Academic is equivalent to the &lt;code&gt;github&lt;/code&gt; style from highlight.js.&lt;/p&gt;
@@ -1709,16 +1709,16 @@ Here&#39;s some important information...
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://chengjunwang.com/post/getting-started/</link>
+      <link>https://okanss.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/getting-started/</guid>
+      <guid>https://okanss.com/post/getting-started/</guid>
       <description>&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 &lt;p&gt;Key features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -1773,11 +1773,11 @@ Here&#39;s some important information...
 &lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
 &lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://chengjunwang.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;https://okanss.com/post/widgets/&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://chengjunwang.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;https://okanss.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chengjunwang.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://okanss.com/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 &lt;p&gt;The following color themes are available and can be set by the &lt;code&gt;color_theme&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
 &lt;table&gt;
@@ -1876,9 +1876,9 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>https://chengjunwang.com/post/widgets/</link>
+      <link>https://okanss.com/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/widgets/</guid>
+      <guid>https://okanss.com/post/widgets/</guid>
       <description>&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;About/biography&lt;/li&gt;
@@ -1919,12 +1919,12 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>https://chengjunwang.com/post/managing-content/</link>
+      <link>https://okanss.com/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://chengjunwang.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;https://okanss.com/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;header&lt;/span&gt;]
 &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;headers/getting-started.png&amp;#34;&lt;/span&gt;
@@ -2065,9 +2065,9 @@ widgets = true
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://chengjunwang.com/post/writing-markdown-latex/</link>
+      <link>https://okanss.com/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0300</pubDate>
-      <guid>https://chengjunwang.com/post/writing-markdown-latex/</guid>
+      <guid>https://okanss.com/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
 &lt;p&gt;This article gives an overview of the most common formatting options.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -2217,7 +2217,7 @@ input_string_var &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; input(
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option allows you to specify additional languages that are supported by highlight.js, but are not considered &amp;ldquo;common&amp;rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;, &amp;quot;clojure&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. If, on the other hand, you want to enable a language only for a specific page, you can set &lt;code&gt;highlight_languages&lt;/code&gt; in that page&amp;rsquo;s preamble.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; options specified in &lt;code&gt;config.toml&lt;/code&gt; and in a page&amp;rsquo;s preamble are additive. That is, if &lt;code&gt;config.toml&lt;/code&gt; contains, &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;]&lt;/code&gt; and the page&amp;rsquo;s preamble contains &lt;code&gt;highlight_languages = [&amp;quot;ocaml&amp;quot;]&lt;/code&gt;, then javascript files for &lt;em&gt;both&lt;/em&gt; go and ocaml will be included for that page.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://chengjunwang.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;https://okanss.com/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;option-highlight_style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set &lt;code&gt;highlight_style = &amp;quot;solarized-dark&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option is unset, the default is to use the file &lt;code&gt;/css/highlight.min.css&lt;/code&gt;, either the one provided by the Academic theme, or else the one in your local &lt;code&gt;static&lt;/code&gt; directory.  The &lt;code&gt;/css/highlight.min.css&lt;/code&gt; file provided by Academic is equivalent to the &lt;code&gt;github&lt;/code&gt; style from highlight.js.&lt;/p&gt;
@@ -2316,10 +2316,10 @@ Here&#39;s some important information...
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://chengjunwang.com/post/post_archive/migrate-from-jekyll/</link>
+      <link>https://okanss.com/post/post_archive/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/post_archive/migrate-from-jekyll/</guid>
-      <description>&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://chengjunwang.com/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://okanss.com/post/post_archive/migrate-from-jekyll/</guid>
+      <description>&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://okanss.com/post/getting-started/&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
 With Jekyll, something that looked like&lt;/p&gt;
@@ -2345,9 +2345,9 @@ With Jekyll, something that looked like&lt;/p&gt;
     
     <item>
       <title>Blogging with markdown on Octopress</title>
-      <link>https://chengjunwang.com/post/en/2013-08-03-bloging-with-markdown-on-octopress/</link>
+      <link>https://okanss.com/post/en/2013-08-03-bloging-with-markdown-on-octopress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-03-bloging-with-markdown-on-octopress/</guid>
+      <guid>https://okanss.com/post/en/2013-08-03-bloging-with-markdown-on-octopress/</guid>
       <description>&lt;h3 id=&#34;set-up-octopress&#34;&gt;Set up Octopress&lt;/h3&gt;
 &lt;p&gt;I refer to this &lt;a href=&#34;http://www.yanjiuyanjiu.com/blog/20130401/&#34;&gt;blog&lt;/a&gt; and this &lt;a href=&#34;http://zerodie.github.io/blog/2012/01/19/octopress-github-pages/&#34;&gt;blog&lt;/a&gt; to setup octopress. It&amp;rsquo;s very helpful for windows users.&lt;/p&gt;
 &lt;h3 id=&#34;for-encoding-errors&#34;&gt;For encoding errors&lt;/h3&gt;
@@ -2441,9 +2441,9 @@ end
     
     <item>
       <title>Fitting rank order distribution with R</title>
-      <link>https://chengjunwang.com/post/en/2014-03-17-fit-power-law/</link>
+      <link>https://okanss.com/post/en/2014-03-17-fit-power-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-03-17-fit-power-law/</guid>
+      <guid>https://okanss.com/post/en/2014-03-17-fit-power-law/</guid>
       <description>&lt;p&gt;The long-tail distribution can be quantified in primarily &lt;a href=&#34;http://arxiv.org/pdf/cond-mat/0412004.pdf?origin=publication_detail&#34;&gt;three ways, see Newman &amp;lsquo;s paper here&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Power law distribution&lt;/li&gt;
@@ -2560,9 +2560,9 @@ dev.off()
     
     <item>
       <title>Generating networks with igraph</title>
-      <link>https://chengjunwang.com/post/en/2013-08-12-generating-networks-with-igraph/</link>
+      <link>https://okanss.com/post/en/2013-08-12-generating-networks-with-igraph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-12-generating-networks-with-igraph/</guid>
+      <guid>https://okanss.com/post/en/2013-08-12-generating-networks-with-igraph/</guid>
       <description>&lt;p&gt;We know that the most simple network is the regular network, such as the ring network. If all the edges in a network are generated randomly, we can get a random graph or Erdos-Renyi network (ER network).&lt;/p&gt;
 &lt;h2 id=&#34;erdősrényi-random-graph-model&#34;&gt;Erdős–Rényi Random Graph model&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2614,9 +2614,9 @@ plot(g5, vertex.label= NA, edge.arrow.size=0.02,vertex.size = 0.5)
     
     <item>
       <title>Hosting pandoc slides on Octopress</title>
-      <link>https://chengjunwang.com/post/en/2013-08-06-present-pandoc-slides-on-octopress/</link>
+      <link>https://okanss.com/post/en/2013-08-06-present-pandoc-slides-on-octopress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-06-present-pandoc-slides-on-octopress/</guid>
+      <guid>https://okanss.com/post/en/2013-08-06-present-pandoc-slides-on-octopress/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 &lt;p&gt;I have made a dzslides from a markdown file using pandoc, and then I want to archive and present it on octopress. Check the result to learn about how to make simple slides using pandoc &lt;a href=&#34;http://chengjun.github.io/slides/pandoc-slides&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The mechanism of octopress is a little bit inflexible.&lt;/p&gt;
@@ -2642,9 +2642,9 @@ rake deploy
     
     <item>
       <title>Learning basic epidemic models with Python</title>
-      <link>https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/</link>
+      <link>https://okanss.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/</guid>
+      <guid>https://okanss.com/post/en/2013-03-14-learn-basic-epidemic-models-with-python/</guid>
       <description>&lt;p&gt;The epidemic model is another intellectual source for information diffusion research. The first known mathematical model of epidemiology is formulated by Daniel Bernoulli (1760) when he studied the mortality rates in order to eradicate the smallpox. However, it was not until the early twentieth century that deterministic modeling of epidemiology started. Ross (1911) developed differential equation models of epidemics in 1911. Later, Kermack and McKendrick (1927) found the epidemic threshold and they argued that the density of susceptible must exceed a critical value to make the outbreak of an epidemic happen.&lt;/p&gt;
 &lt;p&gt;The mathematical models developed by epidemic research help clarify assumptions, variables, and parameters for diffusion research, lead to useful concepts (e.g., threshold, reproduction number), supply an experimental tool for testing theoretical conjectures, and forecast epidemic spreading in the future (Hethcote, 2009). Although epidemic models are simplifications of reality, they help us refine our understandings about the logic of diffusion beneath social realities (disease transmission, information diffusion through networks, and adoption of new technologies or behaviors). To understand the epidemic models in a better way, I will briefly review the basic epidemic models: SI, SIR, SIS, and the applications in networks.&lt;/p&gt;
 &lt;h3 id=&#34;si-model&#34;&gt;SI model&lt;/h3&gt;
@@ -2770,9 +2770,9 @@ In the section above, I mainly focus on the deterministic models of epidemics. H
     
     <item>
       <title>My vision statement</title>
-      <link>https://chengjunwang.com/post/en/2014-04-06-vison-statement/</link>
+      <link>https://okanss.com/post/en/2014-04-06-vison-statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-04-06-vison-statement/</guid>
+      <guid>https://okanss.com/post/en/2014-04-06-vison-statement/</guid>
       <description>&lt;p&gt;My ideal career path is to work in a research university where I can continue my on-going study of opinion dynamics, and to share my understanding of computational communication (e.g. human online behavior, network science, and data journalism).&lt;/p&gt;
 &lt;h3 id=&#34;computational-communication-cc&#34;&gt;Computational Communication (CC)&lt;/h3&gt;
 &lt;p&gt;Computational communication is part of computational social science (&lt;a href=&#34;http://gking.harvard.edu/files/LazPenAda09.pdf&#34;&gt;pdf&lt;/a&gt;). Computational communication emphasizes the importance of computational thinking in both theory-building and method-development. &lt;code&gt;Network science&lt;/code&gt;, &lt;code&gt;natural language processing&lt;/code&gt;, as well as the &lt;code&gt;agent-based modeling&lt;/code&gt; methods opened a new door to the development of human communication research. The increasingly widely used &lt;code&gt;machine learning&lt;/code&gt; techniques enriched our understanding about how we can understand the outside world in an efficient way. Further, there are mainly two applications of computational communication in the industry, including both &lt;code&gt;computational advertising&lt;/code&gt; and &lt;code&gt;data journalism&lt;/code&gt;. Put them together, we get a brand new framework for communication research.&lt;/p&gt;
@@ -2834,9 +2834,9 @@ In the section above, I mainly focus on the deterministic models of epidemics. H
     
     <item>
       <title>Plot regression coefficient with R</title>
-      <link>https://chengjunwang.com/post/en/2013-08-16-plot-regression-coefficient-with-r/</link>
+      <link>https://okanss.com/post/en/2013-08-16-plot-regression-coefficient-with-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-16-plot-regression-coefficient-with-r/</guid>
+      <guid>https://okanss.com/post/en/2013-08-16-plot-regression-coefficient-with-r/</guid>
       <description>&lt;p&gt;To visualize the regression coefficient is very useful. There are at least to packages (arm, coefplot) devoted to this purpose. However, both them are not beautiful enough, compared with the effect of boxplot.&lt;/p&gt;
 &lt;p&gt;I refer to the R script written by &lt;a href=&#34;http://www.carlislerainey.com/2012/06/30/coefficient-plots-in-r/&#34;&gt;Carlisle Rainey&lt;/a&gt;. What I do is to add rectangles and vertical line into the plot made by Carlisle Rainey.Please refer to this post for more information: &lt;a href=&#34;http://www.carlislerainey.com/2012/06/30/coefficient-plots-in-r/&#34;&gt;http://www.carlislerainey.com/2012/06/30/coefficient-plots-in-r/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm4.staticflickr.com/3737/9520667493_576a8525c7_z.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2898,9 +2898,9 @@ box()
     
     <item>
       <title>Recoding variables in R</title>
-      <link>https://chengjunwang.com/post/en/2013-08-14-recoding-in-r/</link>
+      <link>https://okanss.com/post/en/2013-08-14-recoding-in-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-14-recoding-in-r/</guid>
+      <guid>https://okanss.com/post/en/2013-08-14-recoding-in-r/</guid>
       <description>&lt;p&gt;Recoding variables is fairly easy in R. Here I summarize three appoaches and recommend the first one to you.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm4.staticflickr.com/3710/9508687722_545101d405.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;##1.List slicing&lt;/p&gt;
@@ -2952,9 +2952,9 @@ newx &amp;lt;- recode(x, &amp;quot;c(1,2)=&#39;A&#39;; else=&#39;B&#39;&amp;quot
     
     <item>
       <title>Scraping data from Sina Weibo using Python</title>
-      <link>https://chengjunwang.com/post/en/2014-03-16-scraping-weibo-using-python/</link>
+      <link>https://okanss.com/post/en/2014-03-16-scraping-weibo-using-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-03-16-scraping-weibo-using-python/</guid>
+      <guid>https://okanss.com/post/en/2014-03-16-scraping-weibo-using-python/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://weblab.com.cityu.edu.hk/blog/chengjun/files/2012/09/33.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;weibo-oauth20&#34;&gt;Weibo Oauth2.0&lt;/h3&gt;
 &lt;p&gt;I would like to introduce you how to use python to scrape tweets from Sina Weibo in this post.&lt;/p&gt;
@@ -3267,9 +3267,9 @@ for line in lines:
     
     <item>
       <title>Scraping New York Times &amp; The Guardian using Python</title>
-      <link>https://chengjunwang.com/post/en/2012-04-23-scraping-newyork-times-with-python/</link>
+      <link>https://okanss.com/post/en/2012-04-23-scraping-newyork-times-with-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2012-04-23-scraping-newyork-times-with-python/</guid>
+      <guid>https://okanss.com/post/en/2012-04-23-scraping-newyork-times-with-python/</guid>
       <description>&lt;p&gt;I have read the blog post about Scraping New York Times Articles with R. It’s great. I want to reproduce the work with python.
 First, we should learn about nytimes article search api.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://developer.nytimes.com/docs/article_search_api/&#34;&gt;http://developer.nytimes.com/docs/article_search_api/&lt;/a&gt;&lt;/p&gt;
@@ -3400,9 +3400,9 @@ pass
     
     <item>
       <title>Scraping tweets using Twitter stream API</title>
-      <link>https://chengjunwang.com/post/en/2013-01-20-scraping-tweets-from-twitter/</link>
+      <link>https://okanss.com/post/en/2013-01-20-scraping-tweets-from-twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-01-20-scraping-tweets-from-twitter/</guid>
+      <guid>https://okanss.com/post/en/2013-01-20-scraping-tweets-from-twitter/</guid>
       <description>&lt;p&gt;I want to randomly sample twitter streams. Thus, i turn to the &lt;a href=&#34;https://dev.twitter.com/docs/api/streaming&#34;&gt;stream api of twitter&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The set of streaming APIs offered by Twitter give developers low latency access to Twitter&amp;rsquo;s global stream of Tweet data. A proper implementation of a streaming client will be pushed messages indicating Tweets and other events have occurred, without any of the overhead associated with polling a REST endpoint.[&lt;a href=&#34;https://dev.twitter.com/docs/api/streaming&#34;&gt;from Twitter&lt;/a&gt;]&lt;/p&gt;
@@ -3502,9 +3502,9 @@ print timePass
     
     <item>
       <title>Sentiment analysis with machine learning in R</title>
-      <link>https://chengjunwang.com/post/en/2014-04-07-sentiment-analysis-with-machine-learning-in-r/</link>
+      <link>https://okanss.com/post/en/2014-04-07-sentiment-analysis-with-machine-learning-in-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-04-07-sentiment-analysis-with-machine-learning-in-r/</guid>
+      <guid>https://okanss.com/post/en/2014-04-07-sentiment-analysis-with-machine-learning-in-r/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;http://chengjun.github.io/en/2012/03/sentiment-analysi-with-python/&#34;&gt;an earlier post&lt;/a&gt;, I tried to reproduce the sentiment analysis using machine learning in Python. Here, I will introduce how to do it in the framework of R.&lt;/p&gt;
 &lt;p&gt;In the landscape of R, both sentiment analysis package and the general text mining package of machine learning have been well developed by &lt;a href=&#34;https://github.com/timjurka&#34;&gt;Timothy P. Jurka&lt;/a&gt;. You can check out the&lt;a href=&#34;https://github.com/timjurka/sentiment&#34;&gt; sentiment package&lt;/a&gt; and the fantastic &lt;a href=&#34;https://github.com/timjurka/RTextTools&#34;&gt;RTextTools package&lt;/a&gt;. Actually, Timothy also writes &lt;a href=&#34;https://github.com/timjurka/maxent&#34;&gt;an maxent package&lt;/a&gt; for low-memory multinomial logistic regression (also known as maximum entropy).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.gravatar.com/avatar/92b11d2b562de1d82bf134c80b4ee925?s=128&amp;amp;d=identicon&amp;amp;r=PG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -3715,9 +3715,9 @@ cross_MAXENT = cross_validate(container,N,&amp;quot;MAXENT&amp;quot;)
     
     <item>
       <title>Sentiment analysis with Python</title>
-      <link>https://chengjunwang.com/post/en/2012-03-19-sentiment-analysi-with-python/</link>
+      <link>https://okanss.com/post/en/2012-03-19-sentiment-analysi-with-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2012-03-19-sentiment-analysi-with-python/</guid>
+      <guid>https://okanss.com/post/en/2012-03-19-sentiment-analysi-with-python/</guid>
       <description>&lt;p&gt;Learning To Do Sentiment Analysis Using Python &amp;amp; NLTK&lt;/p&gt;
 &lt;p&gt;This is my first try to learn sentiment analysis using python. You can find the original post by Laurent Luce &lt;a href=&#34;http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/&#34;&gt;following this link&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am glad to know that, with the aid of naive Bayes, NLTK could distinguish ‘like’ and ‘does not like’ into &amp;lsquo;positive&amp;rsquo; and &amp;lsquo;negative&amp;rsquo; respectively. I am wondering how R behaves compared with it. The method below employed the procedures depicted in the following figure.&lt;/p&gt;
@@ -3821,9 +3821,9 @@ print(&#39;Total accuracy: %f%% (%d/20).&#39; % (accuracy / total * 100, accurac
     
     <item>
       <title>Simulating network diffusion with R</title>
-      <link>https://chengjunwang.com/post/en/2014-03-09-simulate-network-diffusion-with-r/</link>
+      <link>https://okanss.com/post/en/2014-03-09-simulate-network-diffusion-with-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-03-09-simulate-network-diffusion-with-r/</guid>
+      <guid>https://okanss.com/post/en/2014-03-09-simulate-network-diffusion-with-r/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Different from the traditional diffusion research, network diffusion research focuses on how network structure exerts its impact on the diffusion process. In this post, I present how to simulate the most simple network diffusion with R.&lt;/p&gt;
 &lt;p&gt;As the first step, the algorithm is quite simple:&lt;/p&gt;
@@ -3975,9 +3975,9 @@ saveGIF({
     
     <item>
       <title>Social Entrepreneurs Worldwide: Visualization using WebGL Globe</title>
-      <link>https://chengjunwang.com/post/en/2014-08-20-ashoka-fellows-worldwide/</link>
+      <link>https://okanss.com/post/en/2014-08-20-ashoka-fellows-worldwide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-08-20-ashoka-fellows-worldwide/</guid>
+      <guid>https://okanss.com/post/en/2014-08-20-ashoka-fellows-worldwide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://chengjun.qiniudn.com/ashoka-globe.PNG&#34; alt=&#34;&#34;&gt;
 View it here &lt;a href=&#34;http://chengjun.github.io/globe/ashoka.html&#34;&gt;http://chengjun.github.io/globe/ashoka.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;####Social Entrepreneurs Worldwide
@@ -4071,9 +4071,9 @@ In this visualization, each pillar stands for one country. By the year of 2013, 
     
     <item>
       <title>Subscribe to This Blog by Email</title>
-      <link>https://chengjunwang.com/post/en/2014-09-03-subscribe-by-email/</link>
+      <link>https://okanss.com/post/en/2014-09-03-subscribe-by-email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-09-03-subscribe-by-email/</guid>
+      <guid>https://okanss.com/post/en/2014-09-03-subscribe-by-email/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://mediaserver.pulse2.com/uploads/2007/05/google_feedburner_logos.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I learnt that many people like to subscribe a blog by email. The website usually supplies its feed, but not such subscription service. Actually, it&amp;rsquo;s quite straightford to do so using the &lt;a href=&#34;http://feedburner.google.com/&#34;&gt;feedburner of Google&lt;/a&gt;. After the webmaster sucessfully makes up the feedburner, he or she can look into the Publicize webpage, and click the button of Subscription Management. After it is activated, you can got the url for email subscription. That&amp;rsquo;s it.&lt;/p&gt;
 &lt;p&gt;Then you can find the html code for email subscription as below:&lt;/p&gt;
@@ -4090,9 +4090,9 @@ In this visualization, each pillar stands for one country. By the year of 2013, 
     
     <item>
       <title>The Craft of Writing</title>
-      <link>https://chengjunwang.com/post/en/2011-03-18-craft-of-writing/</link>
+      <link>https://okanss.com/post/en/2011-03-18-craft-of-writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2011-03-18-craft-of-writing/</guid>
+      <guid>https://okanss.com/post/en/2011-03-18-craft-of-writing/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://images.betterworldbooks.com/022/Writing-for-Social-Scientists-How-to-Start-and-Finish-Your-Thesis-Book-Becker-Howard-Saul-9780226041322.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As an American sociologist, Howard S. Becker writes the book titled Writing for Social Scientists in which he generously shares his experience and insightful understandings by analyzing the writing issues in the perspective of sociology. Howard works in the way of anthropology and treats his classroom of writing as a field of observation.&lt;/p&gt;
 &lt;p&gt;First, He asks his students whose fears of writing overshadow their torture of taking class of composition again,to share their experience of writing, which convinces readers that all of us share &lt;strong&gt;common problems&lt;/strong&gt; of writing: instead of treating writing as a work which should be done at once, we turn to all the rituals we know and as a result waste a lot time. How to solve this problem? The answer is quite simple but very useful:&lt;/p&gt;
@@ -4116,9 +4116,9 @@ In this visualization, each pillar stands for one country. By the year of 2013, 
     
     <item>
       <title>The Rich-club on Sina Weibo</title>
-      <link>https://chengjunwang.com/post/en/2014-03-14-weibo-landscape/</link>
+      <link>https://okanss.com/post/en/2014-03-14-weibo-landscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2014-03-14-weibo-landscape/</guid>
+      <guid>https://okanss.com/post/en/2014-03-14-weibo-landscape/</guid>
       <description>&lt;p&gt;This post is about the opinions tweeted &amp;amp; retweeted by the most influential users of Sina Weibo.&lt;/p&gt;
 &lt;p&gt;About Sina Weibo, you can refer to the webpage of &lt;a href=&#34;http://en.wikipedia.org/wiki/Sina_Weibo#cite_note-3&#34;&gt;wikipedia&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -4188,9 +4188,9 @@ Investigating the Rich-Club Effect&lt;/p&gt;
     
     <item>
       <title>Understanding Bass diffusion model with R</title>
-      <link>https://chengjunwang.com/post/en/2012-04-26-understanding-bass-diffusion-model-with-r/</link>
+      <link>https://okanss.com/post/en/2012-04-26-understanding-bass-diffusion-model-with-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2012-04-26-understanding-bass-diffusion-model-with-r/</guid>
+      <guid>https://okanss.com/post/en/2012-04-26-understanding-bass-diffusion-model-with-r/</guid>
       <description>&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
 &lt;p&gt;I had made &lt;a href=&#34;http://weblab.com.cityu.edu.hk/blog/chengjun/files/2012/04/Bass-Diffusion-Model.pdf&#34;&gt;slides&lt;/a&gt; to understand the bass diffusion model which is proposed by Frank M. Bass in 1969. The model proposes that diffusion is motivated both by inovativeness and imitation: first, the innovative early adopters adopted the products, after which the followers will imitate them and adopt the products.&lt;/p&gt;
 &lt;ul&gt;
@@ -4295,9 +4295,9 @@ lines(Tdelt, Icdf, col = &amp;quot;blue&amp;quot;)
     
     <item>
       <title>Using slidify to publish HTML5 presentations</title>
-      <link>https://chengjunwang.com/post/en/2013-08-18-using-slidify-to-publish-html5-presentations/</link>
+      <link>https://okanss.com/post/en/2013-08-18-using-slidify-to-publish-html5-presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-18-using-slidify-to-publish-html5-presentations/</guid>
+      <guid>https://okanss.com/post/en/2013-08-18-using-slidify-to-publish-html5-presentations/</guid>
       <description>&lt;p&gt;I am inspired to use markdown to make HTML5 slides, However the specification is too hard. Actually, I don&amp;rsquo;t know how to make it less ugly, especilly for the first page of the slides.&lt;/p&gt;
 &lt;p&gt;By chance, I find Torres&amp;rsquo;s slides (&lt;a href=&#34;http://lcolladotor.github.io/Rmd-intro/&#34;&gt;Click here&lt;/a&gt;), it is made through R using the slidify package. Of course, you also need to write R markdown using Rstudio and Knitr.&lt;/p&gt;
 &lt;h1 id=&#34;install-slidify-package-in-rstudio&#34;&gt;Install slidify package in Rstudio&lt;/h1&gt;
@@ -4424,9 +4424,9 @@ mode        : standalone # {standalone, draft, selfcontained}
     
     <item>
       <title>Using the front-page of Octopress instead of the blog page</title>
-      <link>https://chengjunwang.com/post/en/2013-08-06-using-the-front-page-of-octopress-instead-of-the-blog-page/</link>
+      <link>https://okanss.com/post/en/2013-08-06-using-the-front-page-of-octopress-instead-of-the-blog-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2013-08-06-using-the-front-page-of-octopress-instead-of-the-blog-page/</guid>
+      <guid>https://okanss.com/post/en/2013-08-06-using-the-front-page-of-octopress-instead-of-the-blog-page/</guid>
       <description>&lt;h2 id=&#34;using-a-landing-page-rather-than-the-blog-page&#34;&gt;Using a Landing Page rather than the Blog Page&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s annoying to find that users are directed to your blog page directly. In my point of view, octopress is not just a personal blog. It is your website, your home online, where you can present yourself easily, rather than limiting yourself to the blog posts.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7387/9450821960_84d5be16c9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -4465,9 +4465,9 @@ mode        : standalone # {standalone, draft, selfcontained}
     
     <item>
       <title>Visualizing dynamic changes with googleVis</title>
-      <link>https://chengjunwang.com/post/en/2011-12-11-visualize-with-googlevis/</link>
+      <link>https://okanss.com/post/en/2011-12-11-visualize-with-googlevis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chengjunwang.com/post/en/2011-12-11-visualize-with-googlevis/</guid>
+      <guid>https://okanss.com/post/en/2011-12-11-visualize-with-googlevis/</guid>
       <description>&lt;p&gt;GoogleVis could be used to visualize the dynamic change of social pattern. Here I will test some examples.&lt;/p&gt;
 &lt;p&gt;First, let us see the examples in googleVis:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;library(googleVis)
